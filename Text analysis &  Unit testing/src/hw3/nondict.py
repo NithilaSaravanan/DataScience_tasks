@@ -6,9 +6,6 @@ AUTHOR: Nithilasaravanan Kuppan
 MCGILL ID: 260905444
 EMAIL: nithilasaravana.kuppan@mail.mcgill.ca
 
-COMP 598
-Homework Assignment 3
-
 """
 
 import pandas as pd
