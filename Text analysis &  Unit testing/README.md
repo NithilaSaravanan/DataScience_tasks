@@ -1,4 +1,3 @@
-This project focuses on completing the tasks required for Homework 3, COMP 598
 
 NOTE:
 
