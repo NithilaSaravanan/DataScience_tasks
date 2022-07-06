@@ -1,0 +1,994 @@
+<html class="platform-desktop design-ad-var4 ff-trx-off" data-ff-trx-case="A|2">
+
+
+<head>
+			<meta name="viewport" content="width=device-width, initial-scale=1.0"><title>Who is Selena Gomez dating? Selena Gomez boyfriend, husband</title><meta charset="UTF-8" /><link rel="canonical" href="https://www.whosdatedwho.com/dating/selena-gomez" /><link rel="alternate" media="only screen and (max-width: 640px)" href="https://m.whosdatedwho.com/dating/selena-gomez" /><meta name="title" content="Who is Selena Gomez dating? Selena Gomez boyfriend, husband" /><meta name="description" content="13 November 2020... Selena Gomez news, gossip, photos of Selena Gomez, biography, Selena Gomez boyfriend list 2016. Relationship history. Selena Gomez relationship list. Selena Gomez dating history, 2020, 2019, list of Selena Gomez relationships." /><meta name="keywords" content="" /><link rel="shortcut icon" href="//pts1.whosdatedwho.com/img/wdw/favicon.ico" /><meta property="og:url" content="https://www.whosdatedwho.com/dating/selena-gomez" /><meta property="og:site_name" content="Who's Dated Who?" /><meta property="fb:app_id" content="589859177821389" /><meta property="og:title" content="Selena Gomez" /><meta property="og:type" content="profile" /><meta property="og:image" content="//img1.bdbphotos.com/images/orig/b/b/bbcp51jps0a15pjb.jpg?skj2io4l" />		
+	<link href="https://cdnjs.cloudflare.com/ajax/libs/foundation/5.5.2/css/foundation.min.css" rel="stylesheet"><link href="https://cdnjs.cloudflare.com/ajax/libs/foundation/5.5.2/css/normalize.min.css" rel="stylesheet"><link href="https://cdnjs.cloudflare.com/ajax/libs/jqueryui/1.11.4/jquery-ui.min.css" rel="stylesheet"><link href="https://cdnjs.cloudflare.com/ajax/libs/Swiper/3.4.0/css/swiper.min.css" rel="stylesheet">
+	
+	<link href="//pts2.whosdatedwho.com/static/css/?f=/dev/zurb/js/vendor/dataTables.foundation.css,/static/icons/css/ff-icon-set.css,/css,$w/css&_c=A|2&t=1583745205" rel="stylesheet">
+	
+	
+			<script type="application/ld+json">
+{
+  "@context": "http://schema.org",
+  "@type": ["Person", "ItemList"],
+  "@id": "https://www.whosdatedwho.com/dating/selena-gomez",
+  "name": "Selena Gomez",
+"jobTitle": "Singer",  "url": "https://www.whosdatedwho.com/dating/selena-gomez",
+"birthDate": "1992-07-22",
+  "itemListOrder": "http://schema.org/ItemListOrderDescending",
+  "numberOfItems": 5,
+  "itemListElement": [
+	    {
+      "@type": "ListItem",
+      "position": 5,
+      "item": {
+        "@type": "Person",
+        "name": "The Weeknd",
+        "url": "https://www.whosdatedwho.com/dating/selena-gomez#dating-the-weeknd",
+		        "image": "//img6.bdbphotos.com/images/orig/o/e/oe7xj4wwachb4jwe.jpg?skj2io4l"
+		      }
+    },
+        {
+      "@type": "ListItem",
+      "position": 4,
+      "item": {
+        "@type": "Person",
+        "name": "Zedd (producer)",
+        "url": "https://www.whosdatedwho.com/dating/selena-gomez#dating-zedd",
+		        "image": "//img1.bdbphotos.com/images/orig/0/e/0engd2eal9lwl9e.jpg?skj2io4l"
+		      }
+    },
+        {
+      "@type": "ListItem",
+      "position": 3,
+      "item": {
+        "@type": "Person",
+        "name": "Justin Bieber",
+        "url": "https://www.whosdatedwho.com/dating/selena-gomez#dating-justin-bieber",
+		        "image": "//img2.bdbphotos.com/images/orig/l/k/lkyc4v77w5fxv47k.jpg?skj2io4l"
+		      }
+    },
+        {
+      "@type": "ListItem",
+      "position": 2,
+      "item": {
+        "@type": "Person",
+        "name": "Taylor Lautner",
+        "url": "https://www.whosdatedwho.com/dating/selena-gomez#dating-taylor-lautner",
+		        "image": "//img5.bdbphotos.com/images/orig/k/c/kc3ji9facfhpckjf.jpg?skj2io4l"
+		      }
+    },
+        {
+      "@type": "ListItem",
+      "position": 1,
+      "item": {
+        "@type": "Person",
+        "name": "Nick Jonas",
+        "url": "https://www.whosdatedwho.com/dating/selena-gomez#dating-nick-jonas",
+		        "image": "//img6.bdbphotos.com/images/orig/t/c/tc642bij5tg9ct4t.jpg?skj2io4l"
+		      }
+    }
+      ]
+}
+    </script>		
+			<script>
+
+		var globErr = [];
+		function globErrFlush() {
+
+						if(typeof(ga) != 'undefined' && typeof(ffJS) != 'undefined') {
+				while(globErr.length > 0) {
+					var e = globErr.shift();
+					ffJS.ffFfwGx.error(e);
+				}
+			} else {
+				setTimeout(globErrFlush, 1000);
+			}
+			}
+		window.addEventListener('error', function (e) {
+			globErr.push((e.error ? e.error : e.message) + ' (' + e.filename + ' #' + e.lineno + (e.colno ? ':' + e.colno : '') + ")");
+			globErrFlush();
+		});
+			
+		//set viewport
+		var $devW = screen.width;
+				if($devW < 1060) {
+			var s = $devW/1060;
+			viewport = document.querySelector("meta[name=viewport]");
+			viewport.setAttribute('content', 'width=1060, initial-scale='+s + ', user-scalable=no');
+		}
+
+		/* Content toggler */
+		function toggleContent(id) {
+			var e = document.getElementById(id);
+			console.log(e.className);
+			if(e.className.match(/ ff-hide-content/)) {
+				e.className = e.className.replace(' ff-hide-content','');
+			} else {
+				e.className = e.className + ' ff-hide-content';
+			}
+		}
+
+		/* Voting */
+		
+		function contentVote(eid,cid,tid,list,vote,url) {
+			  var xhr = new XMLHttpRequest();
+			  
+			  xhr.onreadystatechange = function() {
+			    if (this.readyState == 4 && this.status == 200) {
+						var data = JSON.parse(this.responseText);
+						console.log(data);
+						if(data.success) {
+					    	var els = document.getElementsByClassName(eid)
+					    	for(var i = 0; i < els.length; ++i) {
+									els[i].innerHTML = vote > 0 ? data.vup : data.vdown;
+							  }
+						} else {
+							$.fn.ajaxResponse(false, {formError: 'CONTENT.VOTED'});
+						}
+			    }
+			 	};
+
+			 	xhr.withCredentials = true;
+			  xhr.open("POST", '//fdata.whosdatedwho.com/content/vote', true);
+			 	xhr.setRequestHeader('Content-Type', 'application/x-www-form-urlencoded');
+			  xhr.send("id=" + cid + "&tid=" + tid + "&list=" + list + "&vote=" + vote + "&url=" + url );
+
+		}
+	</script>
+	
+
+<script src="https://code.jquery.com/jquery-2.1.4.min.js" integrity="sha256-8WqyJLuWKRBVhxXIL1jBDD7SDxU936oZkCnxQbWwJVw=" crossorigin="anonymous"></script>
+		
+	<!-- script type="text/javascript" src="https://www.google.com/jsapi"></script>
+	
+	<script type="text/javascript">
+		function initCharts(packages,callback) {
+	    google.load("visualization", "1", {packages:packages, callback: callback});
+	  }
+	</script-->
+		
+</head>
+	
+<body id="ff-page-person" data-ffw="content" data-ff-eid="" data-ff-url="selena-gomez" data-ff-tid="1" data-ff-id="59520" data-ff-title="Selena Gomez" data-ff-gx="Type,Person" data-ff-gx-view>
+
+<div data-ff-user="9f195597cd863df69658b4c357822bda" data-ff-page="59520"></div>
+				
+		
+														
+				
+										
+						
+				
+
+
+
+		<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<script>
+  (adsbygoogle = window.adsbygoogle || []).push({
+    google_ad_client: "ca-pub-4356445222935173",
+    enable_page_level_ads: true
+  });
+</script>
+
+	
+				
+<style>
+.ff-dropitem {
+	position:relative;
+	padding:0;
+	border:0;
+}
+
+.ff-dropitem legend {
+	position:absolute;
+	right:0;
+	display:none;
+}
+
+.ff-dropitem > .icon-remove {
+	position:absolute;
+	right:0;
+	color:#ccc;
+	display:none;
+	z-index:200;
+}
+
+.block-data-browseLinksHidden {
+	display:none;
+}
+a[data-ff-super-toggle] {
+	visibility:hidden;
+}
+</style>
+
+
+<div class="ff-page" data-ff-layout="ad-var">
+
+		
+	
+	
+	
+	
+	
+	
+	
+		
+	
+	<div id="ff-header">
+		<div class="row collapse">
+			<div class="small-1 columns">
+				<a id="ff-header-logo-desktop" href="/"><img alt="WDW" style="width:47px;height:40px;" src="//static.whosdatedwho.com/img/logos/wdw_bubble.png"></a>
+			</div>
+			<div class="small-7 columns">
+					<form class="ff-site-search" method="get" action="/search" id="ff-top-search">
+		<div data-ffw="auto" data-ff-limit="4" data-ff-topsearch-input data-ff-hide-views data-ff-url-redirect data-ff-query="" data-ff-tids="1" data-ff-oids="20,21" data-ff-submit data-ff-size-medium data-ff-placeholder="Search or browse celebrities">
+			<div class="ff-auto"><textarea name="q" class="inputor" rows=1></textarea></div>
+		</div>
+				<button type="submit" class="ff-pointer icon-search"></button>
+			</form>
+
+			</div>
+			<div class="small-4 columns">
+				
+	<ul class="off-canvas-list" style="padding-left:0;">
+
+				<li><a href="/popular" class="icon-star" title="Browse Popular"><small>popular</small></a></li>
+		<li><a href="/trending" class="icon-chart-line" title="Browse Trending"><small>trending</small></a></li>
+		<li><a href="/lists" class="icon-lists" title="Browse Lists"><small>lists</small></a></li>
+		<li><div style="width:1px;height:100%;border-left:1px dotted #999;margin-left:.5rem;margin-right:.5rem;"></div></li>
+		<li data-ff-action="login" data-ff-social data-ffw="user" data-ff-success-url="http://members.whosdatedwho.com#/topic/selena-gomez">
+			<a href="#" style="font-size:25px;margin:0;width:4rem;"><i style="font-size:24px;padding-top: 0;color:#ddd;" class="icon-user"></i><small>login</small></a>
+		</li>
+						</ul>
+	
+
+			</div>
+		</div>
+	</div>
+
+		
+	
+	<div style="margin:0 auto;" data-ff-layout-block class="ff-cont-full ff-droplist" data-ff-name="full">		<fieldset  data-ff-trx="eb" data-ff-id="global.adDFP_Navigation" class="ff-dropitem block-global-adDFP_Navigation" data-ff-name="global.adDFP_Navigation"><div style='margin-top:20px; margin-bottom:20px; min-height:90px;'><div class="ff-advert ff-advert-970x250"><div><div class="ff-adblock" style="margin:0 auto;min-width:auto;min-height:auto"><script type="text/javascript"><!--
+	e9 = new Object();
+    e9.size = "728x90,970x250";
+    e9.noAd = 1;
+//--></script><script type="text/javascript" src="//tags.expo9.exponential.com/tags/FamousFixcom/whosdatedwho/tags.js"></script></div></div></div></div></fieldset>	</div>
+
+	<div class="ff-cont-wrapper" data-ff-id="ff-cont-wrapper">
+		<div data-ff-id="ff-main-content-area" data-ff-layout-block class="ff-cont-main ff-droplist" data-ff-name="main">		<fieldset  data-ff-trx="eb" data-ff-id="topic.datingProfile" class="ff-dropitem block-topic-datingProfile" data-ff-name="topic.datingProfile"><div id="section-selena-gomez" style="margin:-4rem 0 4rem;"></div><div class="ff-block-header dating-profile" ><h2>
+										Selena Gomez 
+									
+								</h2></div><div class="ff-block-content dating-profile" id="ff-selena-gomez"><div class="ff-panel clearfix"><div class="ff-profile-banner"><div style="margin:0 auto;max-width:700px;max-height:350px;"><div class="ff-banner ff-small" style="max-width:700px;padding-bottom:50%;"><img width="700" height="350" style="width:700px;height:350px;" src="//img4.bdbphotos.com/images/700x350/b/b/bbcp51jps0a1jb0b.jpg?skj2io4l" alt="Selena Gomez" class=" " /></div></div><div class="ff-relationship text-center ff-single" ><span>Single</span></div><h1 class="ff-name text-left ff-banner-gradient">
+		
+		Selena Gomez&nbsp;&nbsp;<span class="ff-smaller">American Singer</span></h1><div class="ff-thumbs"><span onClick="contentVote('v59520101',59520,1,0,1,'selena-gomez');return false;" 
+		data-tooltip aria-haspopup="true" class="has-tip tip-left" title="I like this" 		><i class="icon-thumbs-up"></i><v class="v59520101">14065</v></span><span onClick="contentVote('v5952010-1',59520,1,0,'-1','selena-gomez');return false;"
+		 data-tooltip aria-haspopup="true" class="has-tip tip-right" title="I dislike this" 		><i class="icon-thumbs-down"></i><v class="v5952010-1">4735</v></span></div></div><div class="ff-profile-facts text-center" style="margin:0.5rem 0;"><a href="http://members.whosdatedwho.com#/topic/selena-gomez/about" class="ff-edit" data-ff-gx="Edit" data-ff-gx-click><i class="icon icon-pencil"></i><span> edit</span></a><div style="display:inline-block;padding:0.25rem 0.45rem"><div class="ff-fact-box small rank"><div class="header">Rank</div><div class="fact ">4</div><div class="footer"><span class="ff-rank-change "><i class="icon-chart-line"></i><span>2</span></span></div></div></div><div style="display:inline-block;padding:0.25rem 0.45rem"><div class="ff-fact-box small age"><div class="header">Age</div><div class="fact ">28</div><div class="footer">years old</div></div></div><div style="display:inline-block;padding:0.25rem 0.45rem"><div class="ff-fact-box small zodiac"><div class="header">Zodiac</div><div class="fact "><a href="/lists/celebrities-with-star-sign-cancer"><i class="icon-cancer"></i></a></div><div class="footer">Cancer</div></div></div><div style="display:inline-block;padding:0.25rem 0.45rem"><div class="ff-fact-box small relationships"><a href="#ff-dating-history"><div class="header">Relationships</div><div class="fact ">5</div><div class="footer">total</div></a></div></div></div><div class="ff-advert ff-advert-float"><div><div class="ff-adblock" style="margin:0 auto;min-width:auto;min-height:auto"><script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script><!-- WDW article 300x250 --><ins class="adsbygoogle"
+     style="display:inline-block;width:300px;height:250px"
+     data-ad-client="ca-pub-4166127396088587"
+     data-ad-slot="6107881260"></ins><script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script></div></div></div><h4 class="ff-auto-status">
+			Who
+			is she
+			dating right now?
+		</h4><p class="ff-auto-status"><topic url="selena-gomez">Selena Gomez</topic> is currently single.
+    			    		</p><h4 class="ff-auto-relationships">Relationships</h4><p><topic url="selena-gomez">Selena Gomez</topic> has been in relationships with <a href="/dating/the-weeknd">The Weeknd</a><span> (2016 - 2017)</span>, <a href="/dating/zedd">Zedd (producer)</a><span> (2015)</span>, <a href="/dating/justin-bieber">Justin Bieber</a><span> (2010 - 2018)</span>, <a href="/dating/taylor-lautner">Taylor Lautner</a><span> (2009)</span> and <a href="/dating/nick-jonas">Nick Jonas</a><span> (2008 - 2010)</span>.</p><h4 class="ff-auto-about">About</h4><p class="ff-auto-about"><topic url="selena-gomez">Selena Gomez</topic> is a 28 year old American Singer. Born Selena Marie Gomez on 22nd July, 1992 in Grand Prairie, Texas, USA, she is famous for Wizards of Waverly Place in a career that spans 2002&#8211;present and Musical career. Her zodiac sign is Cancer.</p><div class="ff-person-profile-detail-toggle hide"><p class="ff-auto-about"><topic url="selena-gomez">Selena Gomez</topic> has been in 19 on-screen matchups, including <a href="/dating/drew-seeley">Drew Seeley</a> in <i>Another Cinderella Story</i><span> (2008)</span>, <a href="/dating/andrey-kupchenko">Andrey Kupchenko</a> in <i>Selena Gomez: Back to You</i><span> (2018)</span>, <a href="/dating/andy-samberg">Andy Samberg</a> in <i>Hotel Transylvania</i><span> (2012)</span>, <a href="/dating/christopher-mason">Christopher Mason</a> in <i>Selena Gomez: Hands to Myself</i><span> (2015)</span> and <a href="/dating/cole-sprouse">Cole Sprouse</a> in <i>The Suite Life of Zack and Cody</i><span> (2005)</span>.</p><p class="ff-auto-about"><topic url="selena-gomez">Selena Gomez</topic> is a member of the following lists: <a href="/lists/american-film-actors">American film actors</a>, <a href="/lists/american-dance-musicians">American dance musicians</a> and <a href="/lists/american-female-singers">American female singers</a>.</p><h4 class="ff-auto-contribute">Contribute</h4><p class="ff-auto-contribute">
+		Help us build our profile of Selena Gomez! 
+		<a data-ff-action="login" data-ff-socialx="" data-ffw="user" data-ff-success-url="http://members.whosdatedwho.com#/topic/selena-gomez">Login</a>
+		to add information, pictures and relationships, join in discussions and get credit for your contributions.
+	</p></div><div class="ff-person-profile-detail-toggle hide"><h4 class="ff-auto-statistics">Relationship Statistics</h4><table style="width:100%"><tr><th>Type</th><th>Total</th><th>Longest</th><th>Average</th><th>Shortest</th></tr><tr><th>Dating</th><td>5</td><td><span data-tooltip aria-haspopup="true" class="has-tip" title="Justin Bieber and Selena Gomez">
+								7 years, 5 months
+							</span></td><td>
+													2 years, 1 month
+											</td><td><span data-tooltip aria-haspopup="true" class="has-tip" title="Selena Gomez and Zedd (producer)">
+								3 months
+							</span></td></tr><tr><th style="font-style:oblique">Total</th><td style="font-style:oblique">5</td><td style="font-style:oblique"><span data-tooltip aria-haspopup="true" class="has-tip" title="Justin Bieber and Selena Gomez">
+								7 years, 5 months
+						</span></td><td style="font-style:oblique">
+											2 years, 1 month
+									</td><td style="font-style:oblique"><span data-tooltip aria-haspopup="true" class="has-tip" title="Selena Gomez and Zedd (producer)">
+							3 months
+						</span></td></tr></table><h4 class="ff-auto-details">Details</h4><table style="width: 100%;word-break:break-word;max-height:25%;"><col width="40%"><col width="60%"><tr><td>First Name</td><td>
+															Selena
+													</td></tr><tr><td>Middle Name</td><td>
+															Marie
+													</td></tr><tr><td>Last Name</td><td>
+															Gomez
+													</td></tr><tr><td>Full Name at Birth</td><td>
+															Selena Marie Gomez
+													</td></tr><tr><td>Alternative Name</td><td>
+															Sel, Selly, Selena Marie Gomez, Selena Gomez
+													</td></tr><tr><td>Age</td><td>
+															28 years
+													</td></tr><tr><td>Birthday</td><td>
+															22nd July, 1992
+													</td></tr><tr><td>Birthplace</td><td>
+															Grand Prairie, Texas, USA
+													</td></tr><tr><td>Height</td><td>
+															5&#039; 5&quot; (165 cm)
+													</td></tr><tr><td>Weight</td><td>
+															119lbs (54 kg)
+													</td></tr><tr><td>Build</td><td>
+															Average
+													</td></tr><tr><td>Eye Color</td><td>
+															Brown - Dark
+													</td></tr><tr><td>Hair Color</td><td>
+															Brown - Dark
+													</td></tr><tr><td>Distinctive Feature</td><td>
+															&quot;Tiny Music Note&quot; on the side of her right wrist, &quot; ‘Love Yourself First’ in Mexican back below her right shoulder.
+													</td></tr><tr><td>Zodiac Sign</td><td>
+															Cancer
+													</td></tr><tr><td>Sexuality</td><td>
+															Straight
+													</td></tr><tr><td>Religion</td><td>
+															Christian
+													</td></tr><tr><td>Ethnicity</td><td>
+															Multiracial
+													</td></tr><tr><td>Nationality</td><td>
+															American
+													</td></tr><tr><td>High School</td><td>
+															Homeschooled
+													</td></tr><tr><td>Occupation Text</td><td>
+															Singer, songwriter, actress, producer
+													</td></tr><tr><td>Occupation</td><td>
+															Singer
+													</td></tr><tr><td>Claim to Fame</td><td>
+															Wizards of Waverly Place
+													</td></tr><tr><td>Music Genre (Text)</td><td>
+															Pop, Dance Pop, Electro Pop, Dance-pop, electropop
+													</td></tr><tr><td>Music Genre</td><td>
+															Pop
+													</td></tr><tr><td>Year(s) Active</td><td>
+															2002 — present, 2002&#8211;present, Musical career
+													</td></tr><tr><td>Instrument (text)</td><td>
+															Vocals, Piano
+													</td></tr><tr><td>Record Label</td><td>
+															Interscope Records [2014 — present], Hollywood Records [2008 — 2014], Hollywood, Interscope, Walt Disney
+													</td></tr><tr><td>Associated Acts</td><td>
+															Selena Gomez &amp; The Scene, Julia Michaels, Rock Mafia
+													</td></tr><tr><td>Talent Agency (e.g. Modelling)</td><td>
+															Creative Artists Agency
+													</td></tr><tr><td>Bust (inches)</td><td>
+															34
+													</td></tr><tr><td>Cup Size</td><td>
+															B
+													</td></tr><tr><td>Waist (inches)</td><td>
+															24
+													</td></tr><tr><td>Hips (inches)</td><td>
+															34
+													</td></tr><tr><td>Clothes Size</td><td>
+															8 (US)
+													</td></tr><tr><td>Shoe Size</td><td>
+															7 (US)
+													</td></tr><tr><td>Official Websites</td><td>
+															http://selenagomez.com
+													</td></tr><tr><td>Father</td><td>
+															Ricardo Joel Gomez, Brian Teefey (Step Father)
+													</td></tr><tr><td>Mother</td><td>
+															Amanda Dawn &quot;Mandy&quot; Cornett Teefey
+													</td></tr><tr><td>Sister</td><td>
+															Gracie Elliot Teefey (maternal-Half Sister) (June 12, 2013), Victoria Gomez (paternal-Half Sister) (June 25, 2014), Scarlett Teefey (Half-Sister) (Deceased Dec. 16 2011), Tori Gomez (Half-Sister)
+													</td></tr><tr><td>Family Member</td><td>
+															Priscilla DeLeon (Cousin), Ricardo Gomez Sr. (Grandfather)
+													</td></tr><tr><td>Friend</td><td>
+															Vanessa Hudgens, Drake Bell, Hilary Duff, Lindsay Lohan, Ashley Tisdale, Ashley Benson, Shia Labeouf, Taylor Swift, Lauren Conrad, Emma Watson, Justin Timberlake, Kim Kardashian, Kendall Jenner, Kylie Jenner, Sarah Hyland, Demi Lovato, Julia Roberts, Kirsten Dunst, Reese Witherspoon, Shay Mitchell, Cara Delevingne, Gigi Hadid, Hailee Steinfeld, Katy Perry, Meghan Trainor, Charlie Puth, Lily Aldridge, Nina Dobrev, Camila Cabello, David Henrie, Jake T. Austin, Bailee Madison, Ellie Goulding
+													</td></tr><tr><td>Associated People</td><td>
+															Demi Lovato, Miley Cyrus, Taylor Swift, Justin Bieber, Kendall Jenner, Kylie Jenner, Victoria Justice, Lucy Hale, Ashley Benson, Sarah Hyland, Vanessa Hudgens, Ashley Tisdale, Jonas Brothers, Nick Jonas
+													</td></tr><tr><td>Pets</td><td>
+															Willie (Dog), Wallace (Dog), Mango (Dog), Fina (Dog), Chip (Dog), Chazz (Dog), Baylor (Dog)
+													</td></tr><tr><td>Favorite Movies</td><td>
+															The Wizard of Oz [1939]
+													</td></tr><tr><td>Favorite Songs</td><td>
+															I Knew You Were Trouble (Taylor Swift) [2013]
+													</td></tr><tr><td>Favorite Books</td><td>
+															50 Shades Of Grey
+													</td></tr><tr><td>Favorite Places</td><td>
+															Australia, Paris, Spain, Texas, Mexico, Italy
+													</td></tr><tr><td>Favorite Foods</td><td>
+															Pizza, Chicken, Chocolate, Hot Dogs, Ice Cream, Pickles, Mango
+													</td></tr><tr><td>Favorite Colors</td><td>
+															Green, Pink, Yellow, Brown, Red, Blue, Orange, Purple
+													</td></tr><tr><td>Favorite Accessories</td><td>
+															Marc Jacobs, D&amp;G Handbags, Chanel boots, Earrings, Gucci, Jeans, Rayban shades, Heels
+													</td></tr></table><p style="margin:1rem 0 0;" class="ff-expandable">
+					Selena Marie Gomez (born July 22, 1992) is an American singer, songwriter, actress, and producer. Born and raised in Texas, Gomez began her career by appearing on the children's television series Barney &amp; Friends (2002–2004). In her teens, she gained wider recognition for her role as Alex Russo on the Emmy Award-winning Disney Channel television series Wizards of Waverly Place (2007–2012).
+				</p></div></div><div class="ff-toggler text-center left" style="width:100%;margin-top: 2rem;" data-ff-toggle=".ff-person-profile-detail-toggle" data-ff-scroll><div class="ff-person-profile-detail-toggle" style="width: 100%;padding-top:1rem;border-top:1px solid #ddd"><div style="margin-top: -2.0rem;font-size: 2rem;"><i class="icon-angle-circled-down""></i></div>
+			More about Selena Gomez
+		</div><div class="ff-person-profile-detail-toggle hide" style="width: 100%;padding-top:1rem;border-top:1px solid #ddd"><div style="margin-top: -2.0rem;font-size: 2rem;"><i class="icon-angle-circled-up""></i></div>
+			Less about Selena Gomez
+		</div></div></div></fieldset>		<fieldset  data-ff-trx="eb" data-ff-id="topic.datingHistory" class="ff-dropitem block-topic-datingHistory" data-ff-name="topic.datingHistory"><a href="http://members.whosdatedwho.com#/topic/selena-gomez/relationships" class="ff-edit" data-ff-gx="Edit" data-ff-gx-click><i class="icon icon-pencil"></i><span> edit</span></a><div id="section-dating-history" style="margin:-4rem 0 4rem;"></div><div class="ff-block-header dating-history" ><h2>
+										Dating History 
+									
+								</h2></div><div class="ff-block-content dating-history" id="ff-dating-history"><script type="text/javascript"><!--
+function dhDisplayToggle(show,hide) {
+	document.getElementById('ff-dating-history-'+show).style.display = 'block';
+	document.getElementById('ff-dh-btn-'+show).className += ' ff-active';
+
+	var h = hide.split(',');
+
+	document.cookie = "dating_history_show=" + show;
+	document.cookie = "dating_history_hide=" + hide;
+
+	for(i = 0; i < h.length; i++) {
+    	document.getElementById('ff-dating-history-'+h[i]).style.display = 'none';
+    	document.getElementById('ff-dh-btn-'+h[i]).className =
+    		   document.getElementById('ff-dh-btn-'+h[i]).className.replace
+    		      ( /(?:^|\s)ff-active(?!\S)/g , '' );
+	}
+}
+
+window.onload = function() {
+    var decodedCookie = decodeURIComponent(document.cookie);
+    var ca = decodedCookie.split(';');
+    var dhs = "";
+    var dhh = "";
+    
+    for(var i = 0; i <ca.length; i++) {
+        var c = ca[i];
+        while (c.charAt(0) == ' ') {
+            c = c.substring(1);
+        }
+        if (c.indexOf('dating_history_show=') == 0) {
+            dhs = c.substring(20, c.length);
+        }
+        if (c.indexOf('dating_history_hide=') == 0) {
+            dhh = c.substring(20, c.length);
+        }
+    }
+    
+    if(dhs && dhh) {
+        dhDisplayToggle(dhs,dhh);
+    }
+    
+}
+//--></script><div class="ff-dating-history ff-panel"><div class="ff-dating-history-controls"><button id="ff-dh-btn-grid" class="tiny radius secondary ff-active" onClick="dhDisplayToggle('grid','list,table')"><i class="icon-th"></i> Grid
+		</button><button id="ff-dh-btn-list" class="tiny radius secondary " onClick="dhDisplayToggle('list','grid,table')"><i class="icon-lists"></i> List
+		</button><button id="ff-dh-btn-table" class="tiny radius secondary " onClick="dhDisplayToggle('table','list,grid')"><i class="icon-menu"></i> Table
+		</button></div><div id="ff-dating-history-table" style="display:none;width:100%;overflow:hidden;float:left;"><table width="100%"><tr><th style="width:6%">#</th><th style="width:25%">Partner</th><th style="width:16%">Type</th><th style="width:5%"></th><th style="width:14%">Start</th><th style="width:14%">End</th><th style="width:16%">Length</th><th style="width:4%"></th></tr><tr><td>
+			5
+		</td><td><a data-ff-gx="View Person,the-weeknd" data-ff-gx-click href="https://www.whosdatedwho.com/dating/the-weeknd">
+				The Weeknd
+			</a></td><td>
+			Relationship
+		</td><td style="text-align:center"></td><td>
+						    Dec 2016
+					</td><td>
+						    Oct 2017
+					</td><td>
+						    			
+    			    			10 months
+    			    			
+					</td><td><a title="View Couple" data-ff-gx="View Couple,selena-gomez-and-the-weeknd" data-ff-gx-click href="https://www.whosdatedwho.com/dating/selena-gomez-and-the-weeknd"><i class="icon-chevron-right"></i></a></td></tr><tr><td>
+			4
+		</td><td><a data-ff-gx="View Person,zedd" data-ff-gx-click href="https://www.whosdatedwho.com/dating/zedd">
+				Zedd (producer)
+			</a></td><td>
+			Relationship
+		</td><td style="text-align:center"></td><td>
+						    Jan 2015
+					</td><td>
+						    Apr 2015
+					</td><td>
+						    			
+    			    			3 months
+    			    			
+					</td><td><a title="View Couple" data-ff-gx="View Couple,selena-gomez-and-zedd" data-ff-gx-click href="https://www.whosdatedwho.com/dating/selena-gomez-and-zedd"><i class="icon-chevron-right"></i></a></td></tr><tr><td>
+			3
+		</td><td><a data-ff-gx="View Person,justin-bieber" data-ff-gx-click href="https://www.whosdatedwho.com/dating/justin-bieber">
+				Justin Bieber
+			</a></td><td>
+			Relationship
+		</td><td style="text-align:center"></td><td>
+						    Oct 2010
+					</td><td>
+						    Mar 2018
+					</td><td>
+						    			7 years
+    			    			
+    			    			
+					</td><td><a title="View Couple" data-ff-gx="View Couple,justin-bieber-and-selena-gomez" data-ff-gx-click href="https://www.whosdatedwho.com/dating/justin-bieber-and-selena-gomez"><i class="icon-chevron-right"></i></a></td></tr><tr><td>
+			2
+		</td><td><a data-ff-gx="View Person,taylor-lautner" data-ff-gx-click href="https://www.whosdatedwho.com/dating/taylor-lautner">
+				Taylor Lautner
+			</a></td><td>
+			Relationship
+		</td><td style="text-align:center"></td><td>
+						    Apr 2009
+					</td><td>
+						    Jul 2009
+					</td><td>
+						    			
+    			    			3 months
+    			    			
+					</td><td><a title="View Couple" data-ff-gx="View Couple,taylor-lautner-and-selena-gomez" data-ff-gx-click href="https://www.whosdatedwho.com/dating/taylor-lautner-and-selena-gomez"><i class="icon-chevron-right"></i></a></td></tr><tr><td>
+			1
+		</td><td><a data-ff-gx="View Person,nick-jonas" data-ff-gx-click href="https://www.whosdatedwho.com/dating/nick-jonas">
+				Nick Jonas
+			</a></td><td>
+			Relationship
+		</td><td style="text-align:center"></td><td>
+						    Mar 2008
+					</td><td>
+						    Mar 2010
+					</td><td>
+						    			2 years
+    			    			
+    			    			
+					</td><td><a title="View Couple" data-ff-gx="View Couple,nick-jonas-and-selena-gomez" data-ff-gx-click href="https://www.whosdatedwho.com/dating/nick-jonas-and-selena-gomez"><i class="icon-chevron-right"></i></a></td></tr></table></div><div id="ff-dating-history-grid" style="display:block;width:100%;float:left;"><div class="ff-grid-box" id="dating-the-weeknd"><a data-ff-gx="View Person,the-weeknd" data-ff-gx-click href="https://www.whosdatedwho.com/dating/the-weeknd"><div class="ff-img"><img width="198" height="258.26086956522" style="width:198px;height:258.26086956522px;" src="//img4.bdbphotos.com/images/230x300/o/e/oe7xj4wwachbawcw.jpg?skj2io4l" alt="The Weeknd" class=" " /><div style="position:absolute;left:0;top:0rem;padding:0.15rem;font-size:1rem;background-color:rgba(50,50,50,0.5);color:#fff;"><span style="font-size:0.8em;">#</span>5
+							</div><h4 class="ff-title">
+								The Weeknd
+							</h4></div></a><div style="height:20px;padding-top:0.6rem;"><div class="ff-thumbs"><span onClick="contentVote('v88179721595201',8817972,1,59520,1,'selena-gomez-and-the-weeknd');return false;" 
+		data-tooltip aria-haspopup="true" class="has-tip tip-left" title="I like this" 		><i class="icon-thumbs-up"></i><v class="v88179721595201">3922</v></span><span onClick="contentVote('v8817972159520-1',8817972,1,59520,'-1','selena-gomez-and-the-weeknd');return false;"
+		 data-tooltip aria-haspopup="true" class="has-tip tip-right" title="I dislike this" 		><i class="icon-thumbs-down"></i><v class="v8817972159520-1">5484</v></span></div></div><h3>2016 - 2017</h3><div class="ff-bottom"><a style="clear:both;display:inline-block" data-ff-gx="View Couple,selena-gomez-and-the-weeknd" data-ff-gx-click href="https://www.whosdatedwho.com/dating/selena-gomez-and-the-weeknd">
+			
+							The Weeknd and Selena Gomez separated in Oct ...
+			
+							<span class="ff-more">[view&nbsp;couple]</span></a></div></div><div class="ff-grid-box" id="dating-zedd"><a data-ff-gx="View Person,zedd" data-ff-gx-click href="https://www.whosdatedwho.com/dating/zedd"><div class="ff-img"><img width="198" height="258.26086956522" style="width:198px;height:258.26086956522px;" src="//img4.bdbphotos.com/images/230x300/0/e/0engd2eal9lww.jpg?skj2io4l" alt="Zedd (producer)" class=" " /><div style="position:absolute;left:0;top:0rem;padding:0.15rem;font-size:1rem;background-color:rgba(50,50,50,0.5);color:#fff;"><span style="font-size:0.8em;">#</span>4
+							</div><h4 class="ff-title">
+								Zedd (producer)
+							</h4></div></a><div style="height:20px;padding-top:0.6rem;"><div class="ff-thumbs"><span onClick="contentVote('v88205291595201',8820529,1,59520,1,'selena-gomez-and-zedd');return false;" 
+		data-tooltip aria-haspopup="true" class="has-tip tip-left" title="I like this" 		><i class="icon-thumbs-up"></i><v class="v88205291595201">1551</v></span><span onClick="contentVote('v8820529159520-1',8820529,1,59520,'-1','selena-gomez-and-zedd');return false;"
+		 data-tooltip aria-haspopup="true" class="has-tip tip-right" title="I dislike this" 		><i class="icon-thumbs-down"></i><v class="v8820529159520-1">2419</v></span></div></div><h3>2015</h3><div class="ff-bottom"><a style="clear:both;display:inline-block" data-ff-gx="View Couple,selena-gomez-and-zedd" data-ff-gx-click href="https://www.whosdatedwho.com/dating/selena-gomez-and-zedd">
+			
+							Zedd (producer) and Selena Gomez separated in...
+			
+							<span class="ff-more">[view&nbsp;couple]</span></a></div></div><div class="ff-grid-box" id="dating-justin-bieber"><a data-ff-gx="View Person,justin-bieber" data-ff-gx-click href="https://www.whosdatedwho.com/dating/justin-bieber"><div class="ff-img"><img width="198" height="258.26086956522" style="width:198px;height:258.26086956522px;" src="//img4.bdbphotos.com/images/230x300/l/k/lkyc4v77w5fxw757.jpg?skj2io4l" alt="Justin Bieber" class=" " /><div style="position:absolute;left:0;top:0rem;padding:0.15rem;font-size:1rem;background-color:rgba(50,50,50,0.5);color:#fff;"><span style="font-size:0.8em;">#</span>3
+							</div><h4 class="ff-title">
+								Justin Bieber
+							</h4></div></a><div style="height:20px;padding-top:0.6rem;"><div class="ff-thumbs"><span onClick="contentVote('v20239081595201',2023908,1,59520,1,'justin-bieber-and-selena-gomez');return false;" 
+		data-tooltip aria-haspopup="true" class="has-tip tip-left" title="I like this" 		><i class="icon-thumbs-up"></i><v class="v20239081595201">15768</v></span><span onClick="contentVote('v2023908159520-1',2023908,1,59520,'-1','justin-bieber-and-selena-gomez');return false;"
+		 data-tooltip aria-haspopup="true" class="has-tip tip-right" title="I dislike this" 		><i class="icon-thumbs-down"></i><v class="v2023908159520-1">4506</v></span></div></div><h3>2010 - 2018</h3><div class="ff-bottom"><a style="clear:both;display:inline-block" data-ff-gx="View Couple,justin-bieber-and-selena-gomez" data-ff-gx-click href="https://www.whosdatedwho.com/dating/justin-bieber-and-selena-gomez">
+			
+							Justin Bieber and Selena Gomez separated in M...
+			
+							<span class="ff-more">[view&nbsp;couple]</span></a></div></div><div class="ff-grid-box" id="dating-taylor-lautner"><a data-ff-gx="View Person,taylor-lautner" data-ff-gx-click href="https://www.whosdatedwho.com/dating/taylor-lautner"><div class="ff-img"><img width="198" height="258.26086956522" style="width:198px;height:258.26086956522px;" src="//img4.bdbphotos.com/images/230x300/k/c/kc3ji9facfhpi39j.jpg?skj2io4l" alt="Taylor Lautner" class=" " /><div style="position:absolute;left:0;top:0rem;padding:0.15rem;font-size:1rem;background-color:rgba(50,50,50,0.5);color:#fff;"><span style="font-size:0.8em;">#</span>2
+							</div><h4 class="ff-title">
+								Taylor Lautner
+							</h4></div></a><div style="height:20px;padding-top:0.6rem;"><div class="ff-thumbs"><span onClick="contentVote('v466461595201',46646,1,59520,1,'taylor-lautner-and-selena-gomez');return false;" 
+		data-tooltip aria-haspopup="true" class="has-tip tip-left" title="I like this" 		><i class="icon-thumbs-up"></i><v class="v466461595201">6038</v></span><span onClick="contentVote('v46646159520-1',46646,1,59520,'-1','taylor-lautner-and-selena-gomez');return false;"
+		 data-tooltip aria-haspopup="true" class="has-tip tip-right" title="I dislike this" 		><i class="icon-thumbs-down"></i><v class="v46646159520-1">2531</v></span></div></div><h3>2009</h3><div class="ff-bottom"><a style="clear:both;display:inline-block" data-ff-gx="View Couple,taylor-lautner-and-selena-gomez" data-ff-gx-click href="https://www.whosdatedwho.com/dating/taylor-lautner-and-selena-gomez">
+			
+							Selena Gomez and Taylor Lautner separated in ...
+			
+							<span class="ff-more">[view&nbsp;couple]</span></a></div></div><div class="ff-grid-box" id="dating-nick-jonas"><a data-ff-gx="View Person,nick-jonas" data-ff-gx-click href="https://www.whosdatedwho.com/dating/nick-jonas"><div class="ff-img"><img width="198" height="258.26086956522" style="width:198px;height:258.26086956522px;" src="//img4.bdbphotos.com/images/230x300/t/c/tc642bij5tg926b4.jpg?skj2io4l" alt="Nick Jonas" class=" " /><div style="position:absolute;left:0;top:0rem;padding:0.15rem;font-size:1rem;background-color:rgba(50,50,50,0.5);color:#fff;"><span style="font-size:0.8em;">#</span>1
+							</div><h4 class="ff-title">
+								Nick Jonas
+							</h4></div></a><div style="height:20px;padding-top:0.6rem;"><div class="ff-thumbs"><span onClick="contentVote('v449201595201',44920,1,59520,1,'nick-jonas-and-selena-gomez');return false;" 
+		data-tooltip aria-haspopup="true" class="has-tip tip-left" title="I like this" 		><i class="icon-thumbs-up"></i><v class="v449201595201">11960</v></span><span onClick="contentVote('v44920159520-1',44920,1,59520,'-1','nick-jonas-and-selena-gomez');return false;"
+		 data-tooltip aria-haspopup="true" class="has-tip tip-right" title="I dislike this" 		><i class="icon-thumbs-down"></i><v class="v44920159520-1">2218</v></span></div></div><h3>2008 - 2010</h3><div class="ff-bottom"><a style="clear:both;display:inline-block" data-ff-gx="View Couple,nick-jonas-and-selena-gomez" data-ff-gx-click href="https://www.whosdatedwho.com/dating/nick-jonas-and-selena-gomez">
+			
+							Selena Gomez and Nick Jonas separated in Mar ...
+			
+							<span class="ff-more">[view&nbsp;couple]</span></a></div></div></div><div id="ff-dating-history-list" style="display:none;width:100%;clear:both;float:left;"><div class="ff-list-box"><a style="background-image:url('//img6.bdbphotos.com/images/orig/o/e/oe7xj4wwachb4jwe.jpg?skj2io4l')" data-ff-gx="View Person,the-weeknd" data-ff-gx-click href="https://www.whosdatedwho.com/dating/the-weeknd"></a><div style="position:absolute;left:0;top:0rem;padding:0.15rem;font-size:1rem;background-color:rgba(50,50,50,0.5);color:#fff;"><span style="font-size:0.8em;">#</span>5
+				</div><div class="ff-details"><h4 class="ff-title"><a href="the-weeknd" data-ff-gx="View Person,the-weeknd" data-ff-gx-click>The Weeknd</a></h4><h3>
+						2016 - 2017
+						<small></small></h3><p data-ff-gx="View Couple,selena-gomez-and-the-weeknd" data-ff-gx-click href="https://www.whosdatedwho.com/dating/selena-gomez-and-the-weeknd">
+												
+						The Weeknd and Selena Gomez dated from December, 2016 to October, 2017.
+		
+					</p><div class="ff-profile-facts  text-center" style="margin:0.5rem 0;"><div style="width:33.333333333333%;min-width:72px;max-width:120px;display:inline-block;"><div class="ff-fact-box small relationship"><a href="#ff-story"><div class="header">Relationship</div><div class="fact ">10</div><div class="footer">months</div></a></div></div><div style="width:33.333333333333%;min-width:72px;max-width:120px;display:inline-block;"><div class="ff-fact-box small sources"><a data-ffw="popover" data-ff-modal data-ff-size="minimal" data-ff-contents="&lt;iframe src=&quot;http://members.whosdatedwho.com/?layout=popover#/topic/selena-gomez-and-the-weeknd/attributes?attributes=relationshipSource&amp;title=Relationship%20Sources&quot; style=&quot;height:400px;width:570px;margin:0;border-radius:3px;border:3px solid white;&quot;&gt;&lt;/iframe&gt;"><div class="header">Sources</div><div class="fact "><svg class="ff-meter-custom" width="48px" height="48px" viewBox="0 0 100 100"
+    	xmlns="http://www.w3.org/2000/svg" version="1.1"><circle cx="50" cy="50" r="45" stroke="#ccc" stroke-width="10" fill="none" /><circle cx="50" cy="50" r="45" stroke="green" stroke-width="10" fill="none" /><text x="50%" y="50%" text-anchor="middle" dy=".5rem" style="fill:green;stroke:none;">5</text></svg></div><div class="footer"></div></a></div></div><div style="width:33.333333333333%;min-width:72px;max-width:120px;display:inline-block;"><div class="ff-fact-box small compatibility"><a href="#" data-ffw="popover" data-ff-size="large" data-ff-tpl="popover.message" data-ff-tpl-param-title="Compatibility" data-ff-tpl-param-message="<table width='100%'><tr><th>Measure</th><th>Result</th></tr><tr><td>Zodiac</td><td>60%</td></tr><tr><td>Chinese zodiac</td><td>20%</td></tr><tr><td>Height</td><td>55%</td></tr><tr><td>Age</td><td>84%</td></tr></table>"><div class="header">Compatibility</div><div class="fact "><div class="rating"><i class="icon-heart"></i><i class="icon-heart"></i><i class="icon-heart"></i><i class="icon-heart-empty"></i><i class="icon-heart-empty"></i></div></div><div class="footer">55%</div></a></div></div></div><div class="ff-thumbs"><div style="width:100%;height:2px;"><div style="float:left;width:41.696789283436%;border-bottom:2px solid green;"></div><div style="float:left;width:58.303210716564%;border-bottom:2px solid red;"></div></div><span onClick="contentVote('v88179721595201',8817972,1,59520,1,'selena-gomez-and-the-weeknd');return false;" 
+		data-tooltip aria-haspopup="true" class="has-tip tip-left" title="I like this" 		><i class="icon-thumbs-up"></i><v class="v88179721595201">3922</v></span><span onClick="contentVote('v8817972159520-1',8817972,1,59520,'-1','selena-gomez-and-the-weeknd');return false;"
+		 data-tooltip aria-haspopup="true" class="has-tip tip-right" title="I dislike this" 		><i class="icon-thumbs-down"></i><v class="v8817972159520-1">5484</v></span></div><a class="button radius small ff-view-button" href="selena-gomez-and-the-weeknd"  data-ff-gx="View Couple,selena-gomez-and-the-weeknd" data-ff-gx-click>view relationship</a></div></div><div class="ff-list-box"><a style="background-image:url('//img1.bdbphotos.com/images/orig/0/e/0engd2eal9lwl9e.jpg?skj2io4l')" data-ff-gx="View Person,zedd" data-ff-gx-click href="https://www.whosdatedwho.com/dating/zedd"></a><div style="position:absolute;left:0;top:0rem;padding:0.15rem;font-size:1rem;background-color:rgba(50,50,50,0.5);color:#fff;"><span style="font-size:0.8em;">#</span>4
+				</div><div class="ff-details"><h4 class="ff-title"><a href="zedd" data-ff-gx="View Person,zedd" data-ff-gx-click>Zedd (producer)</a></h4><h3>
+						2015
+						<small></small></h3><p data-ff-gx="View Couple,selena-gomez-and-zedd" data-ff-gx-click href="https://www.whosdatedwho.com/dating/selena-gomez-and-zedd">
+												
+						Zedd (producer) and Selena Gomez dated from January to April, 2015.
+		
+					</p><div class="ff-profile-facts  text-center" style="margin:0.5rem 0;"><div style="width:33.333333333333%;min-width:72px;max-width:120px;display:inline-block;"><div class="ff-fact-box small relationship"><a href="#ff-story"><div class="header">Relationship</div><div class="fact ">3</div><div class="footer">months</div></a></div></div><div style="width:33.333333333333%;min-width:72px;max-width:120px;display:inline-block;"><div class="ff-fact-box small sources"><a data-ffw="popover" data-ff-modal data-ff-size="minimal" data-ff-contents="&lt;iframe src=&quot;http://members.whosdatedwho.com/?layout=popover#/topic/selena-gomez-and-zedd/attributes?attributes=relationshipSource&amp;title=Relationship%20Sources&quot; style=&quot;height:400px;width:570px;margin:0;border-radius:3px;border:3px solid white;&quot;&gt;&lt;/iframe&gt;"><div class="header">Sources</div><div class="fact "><svg class="ff-meter-custom" width="48px" height="48px" viewBox="0 0 100 100"
+    	xmlns="http://www.w3.org/2000/svg" version="1.1"><circle cx="50" cy="50" r="45" stroke="#ccc" stroke-width="10" fill="none" /><circle cx="50" cy="50" r="45" stroke="green" stroke-width="10" fill="none" /><text x="50%" y="50%" text-anchor="middle" dy=".5rem" style="fill:green;stroke:none;">11</text></svg></div><div class="footer"></div></a></div></div><div style="width:33.333333333333%;min-width:72px;max-width:120px;display:inline-block;"><div class="ff-fact-box small compatibility"><a href="#" data-ffw="popover" data-ff-size="large" data-ff-tpl="popover.message" data-ff-tpl-param-title="Compatibility" data-ff-tpl-param-message="<table width='100%'><tr><th>Measure</th><th>Result</th></tr><tr><td>Zodiac</td><td>100%</td></tr><tr><td>Chinese zodiac</td><td>40%</td></tr><tr><td>Height</td><td>55%</td></tr><tr><td>Age</td><td>84%</td></tr></table>"><div class="header">Compatibility</div><div class="fact "><div class="rating"><i class="icon-heart"></i><i class="icon-heart"></i><i class="icon-heart"></i><i class="icon-heart"></i><i class="icon-heart-empty"></i></div></div><div class="footer">70%</div></a></div></div></div><div class="ff-thumbs"><div style="width:100%;height:2px;"><div style="float:left;width:39.068010075567%;border-bottom:2px solid green;"></div><div style="float:left;width:60.931989924433%;border-bottom:2px solid red;"></div></div><span onClick="contentVote('v88205291595201',8820529,1,59520,1,'selena-gomez-and-zedd');return false;" 
+		data-tooltip aria-haspopup="true" class="has-tip tip-left" title="I like this" 		><i class="icon-thumbs-up"></i><v class="v88205291595201">1551</v></span><span onClick="contentVote('v8820529159520-1',8820529,1,59520,'-1','selena-gomez-and-zedd');return false;"
+		 data-tooltip aria-haspopup="true" class="has-tip tip-right" title="I dislike this" 		><i class="icon-thumbs-down"></i><v class="v8820529159520-1">2419</v></span></div><a class="button radius small ff-view-button" href="selena-gomez-and-zedd"  data-ff-gx="View Couple,selena-gomez-and-zedd" data-ff-gx-click>view relationship</a></div></div><div class="ff-list-box"><a style="background-image:url('//img2.bdbphotos.com/images/orig/l/k/lkyc4v77w5fxv47k.jpg?skj2io4l')" data-ff-gx="View Person,justin-bieber" data-ff-gx-click href="https://www.whosdatedwho.com/dating/justin-bieber"></a><div style="position:absolute;left:0;top:0rem;padding:0.15rem;font-size:1rem;background-color:rgba(50,50,50,0.5);color:#fff;"><span style="font-size:0.8em;">#</span>3
+				</div><div class="ff-details"><h4 class="ff-title"><a href="justin-bieber" data-ff-gx="View Person,justin-bieber" data-ff-gx-click>Justin Bieber</a></h4><h3>
+						2010 - 2018
+						<small></small></h3><p data-ff-gx="View Couple,justin-bieber-and-selena-gomez" data-ff-gx-click href="https://www.whosdatedwho.com/dating/justin-bieber-and-selena-gomez">
+												
+						Justin Bieber and Selena Gomez dated from October, 2010 to March, 2018.
+		
+					</p><div class="ff-profile-facts  text-center" style="margin:0.5rem 0;"><div style="width:33.333333333333%;min-width:72px;max-width:120px;display:inline-block;"><div class="ff-fact-box small relationship"><a href="#ff-story"><div class="header">Relationship</div><div class="fact ">7</div><div class="footer">years</div></a></div></div><div style="width:33.333333333333%;min-width:72px;max-width:120px;display:inline-block;"><div class="ff-fact-box small sources"><a data-ffw="popover" data-ff-modal data-ff-size="minimal" data-ff-contents="&lt;iframe src=&quot;http://members.whosdatedwho.com/?layout=popover#/topic/justin-bieber-and-selena-gomez/attributes?attributes=relationshipSource&amp;title=Relationship%20Sources&quot; style=&quot;height:400px;width:570px;margin:0;border-radius:3px;border:3px solid white;&quot;&gt;&lt;/iframe&gt;"><div class="header">Sources</div><div class="fact "><svg class="ff-meter-custom" width="48px" height="48px" viewBox="0 0 100 100"
+    	xmlns="http://www.w3.org/2000/svg" version="1.1"><circle cx="50" cy="50" r="45" stroke="#ccc" stroke-width="10" fill="none" /><circle cx="50" cy="50" r="45" stroke="green" stroke-width="10" fill="none" /><text x="50%" y="50%" text-anchor="middle" dy=".5rem" style="fill:green;stroke:none;">3</text></svg></div><div class="footer"></div></a></div></div><div style="width:33.333333333333%;min-width:72px;max-width:120px;display:inline-block;"><div class="ff-fact-box small compatibility"><a href="#" data-ffw="popover" data-ff-size="large" data-ff-tpl="popover.message" data-ff-tpl-param-title="Compatibility" data-ff-tpl-param-message="<table width='100%'><tr><th>Measure</th><th>Result</th></tr><tr><td>Zodiac</td><td>100%</td></tr><tr><td>Chinese zodiac</td><td>80%</td></tr><tr><td>Height</td><td>55%</td></tr><tr><td>Age</td><td>52%</td></tr></table>"><div class="header">Compatibility</div><div class="fact "><div class="rating"><i class="icon-heart"></i><i class="icon-heart"></i><i class="icon-heart"></i><i class="icon-heart"></i><i class="icon-heart-empty"></i></div></div><div class="footer">72%</div></a></div></div></div><div class="ff-thumbs"><div style="width:100%;height:2px;"><div style="float:left;width:77.774489493933%;border-bottom:2px solid green;"></div><div style="float:left;width:22.225510506067%;border-bottom:2px solid red;"></div></div><span onClick="contentVote('v20239081595201',2023908,1,59520,1,'justin-bieber-and-selena-gomez');return false;" 
+		data-tooltip aria-haspopup="true" class="has-tip tip-left" title="I like this" 		><i class="icon-thumbs-up"></i><v class="v20239081595201">15768</v></span><span onClick="contentVote('v2023908159520-1',2023908,1,59520,'-1','justin-bieber-and-selena-gomez');return false;"
+		 data-tooltip aria-haspopup="true" class="has-tip tip-right" title="I dislike this" 		><i class="icon-thumbs-down"></i><v class="v2023908159520-1">4506</v></span></div><a class="button radius small ff-view-button" href="justin-bieber-and-selena-gomez"  data-ff-gx="View Couple,justin-bieber-and-selena-gomez" data-ff-gx-click>view relationship</a></div></div><div class="ff-list-box"><a style="background-image:url('//img5.bdbphotos.com/images/orig/k/c/kc3ji9facfhpckjf.jpg?skj2io4l')" data-ff-gx="View Person,taylor-lautner" data-ff-gx-click href="https://www.whosdatedwho.com/dating/taylor-lautner"></a><div style="position:absolute;left:0;top:0rem;padding:0.15rem;font-size:1rem;background-color:rgba(50,50,50,0.5);color:#fff;"><span style="font-size:0.8em;">#</span>2
+				</div><div class="ff-details"><h4 class="ff-title"><a href="taylor-lautner" data-ff-gx="View Person,taylor-lautner" data-ff-gx-click>Taylor Lautner</a></h4><h3>
+						2009
+						<small></small></h3><p data-ff-gx="View Couple,taylor-lautner-and-selena-gomez" data-ff-gx-click href="https://www.whosdatedwho.com/dating/taylor-lautner-and-selena-gomez">
+												
+						Selena Gomez and Taylor Lautner dated from April to July, 2009.
+		
+					</p><div class="ff-profile-facts  text-center" style="margin:0.5rem 0;"><div style="width:33.333333333333%;min-width:72px;max-width:120px;display:inline-block;"><div class="ff-fact-box small relationship"><a href="#ff-story"><div class="header">Relationship</div><div class="fact ">3</div><div class="footer">months</div></a></div></div><div style="width:33.333333333333%;min-width:72px;max-width:120px;display:inline-block;"><div class="ff-fact-box small sources"><a data-ffw="popover" data-ff-modal data-ff-size="minimal" data-ff-contents="&lt;iframe src=&quot;http://members.whosdatedwho.com/?layout=popover#/topic/taylor-lautner-and-selena-gomez/attributes?attributes=relationshipSource&amp;title=Relationship%20Sources&quot; style=&quot;height:400px;width:570px;margin:0;border-radius:3px;border:3px solid white;&quot;&gt;&lt;/iframe&gt;"><div class="header">Sources</div><div class="fact "><svg class="ff-meter-custom" width="48px" height="48px" viewBox="0 0 100 100"
+    	xmlns="http://www.w3.org/2000/svg" version="1.1"><circle cx="50" cy="50" r="45" stroke="#ccc" stroke-width="10" fill="none" /><text x="50%" y="50%" text-anchor="middle" dy=".5rem" style="fill:gray;stroke:none;">1</text><path d="M 50 5 A 45 45 0 0 1 89 72" stroke="gray" stroke-width="10" fill="none"/></svg></div><div class="footer"></div></a></div></div><div style="width:33.333333333333%;min-width:72px;max-width:120px;display:inline-block;"><div class="ff-fact-box small compatibility"><a href="#" data-ffw="popover" data-ff-size="large" data-ff-tpl="popover.message" data-ff-tpl-param-title="Compatibility" data-ff-tpl-param-message="<table width='100%'><tr><th>Measure</th><th>Result</th></tr><tr><td>Zodiac</td><td>60%</td></tr><tr><td>Chinese zodiac</td><td>40%</td></tr><tr><td>Height</td><td>55%</td></tr><tr><td>Age</td><td>98%</td></tr></table>"><div class="header">Compatibility</div><div class="fact "><div class="rating"><i class="icon-heart"></i><i class="icon-heart"></i><i class="icon-heart"></i><i class="icon-heart-empty"></i><i class="icon-heart-empty"></i></div></div><div class="footer">63%</div></a></div></div></div><div class="ff-thumbs"><div style="width:100%;height:2px;"><div style="float:left;width:70.463297934415%;border-bottom:2px solid green;"></div><div style="float:left;width:29.536702065585%;border-bottom:2px solid red;"></div></div><span onClick="contentVote('v466461595201',46646,1,59520,1,'taylor-lautner-and-selena-gomez');return false;" 
+		data-tooltip aria-haspopup="true" class="has-tip tip-left" title="I like this" 		><i class="icon-thumbs-up"></i><v class="v466461595201">6038</v></span><span onClick="contentVote('v46646159520-1',46646,1,59520,'-1','taylor-lautner-and-selena-gomez');return false;"
+		 data-tooltip aria-haspopup="true" class="has-tip tip-right" title="I dislike this" 		><i class="icon-thumbs-down"></i><v class="v46646159520-1">2531</v></span></div><a class="button radius small ff-view-button" href="taylor-lautner-and-selena-gomez"  data-ff-gx="View Couple,taylor-lautner-and-selena-gomez" data-ff-gx-click>view relationship</a></div></div><div class="ff-list-box"><a style="background-image:url('//img6.bdbphotos.com/images/orig/t/c/tc642bij5tg9ct4t.jpg?skj2io4l')" data-ff-gx="View Person,nick-jonas" data-ff-gx-click href="https://www.whosdatedwho.com/dating/nick-jonas"></a><div style="position:absolute;left:0;top:0rem;padding:0.15rem;font-size:1rem;background-color:rgba(50,50,50,0.5);color:#fff;"><span style="font-size:0.8em;">#</span>1
+				</div><div class="ff-details"><h4 class="ff-title"><a href="nick-jonas" data-ff-gx="View Person,nick-jonas" data-ff-gx-click>Nick Jonas</a></h4><h3>
+						2008 - 2010
+						<small></small></h3><p data-ff-gx="View Couple,nick-jonas-and-selena-gomez" data-ff-gx-click href="https://www.whosdatedwho.com/dating/nick-jonas-and-selena-gomez">
+												
+						Selena Gomez and Nick Jonas dated from March, 2008 to March, 2010.
+		
+					</p><div class="ff-profile-facts  text-center" style="margin:0.5rem 0;"><div style="width:33.333333333333%;min-width:72px;max-width:120px;display:inline-block;"><div class="ff-fact-box small relationship"><a href="#ff-story"><div class="header">Relationship</div><div class="fact ">2</div><div class="footer">years</div></a></div></div><div style="width:33.333333333333%;min-width:72px;max-width:120px;display:inline-block;"><div class="ff-fact-box small sources"><a data-ffw="popover" data-ff-modal data-ff-size="minimal" data-ff-contents="&lt;iframe src=&quot;http://members.whosdatedwho.com/?layout=popover#/topic/nick-jonas-and-selena-gomez/attributes?attributes=relationshipSource&amp;title=Relationship%20Sources&quot; style=&quot;height:400px;width:570px;margin:0;border-radius:3px;border:3px solid white;&quot;&gt;&lt;/iframe&gt;"><div class="header">Sources</div><div class="fact "><svg class="ff-meter-custom" width="48px" height="48px" viewBox="0 0 100 100"
+    	xmlns="http://www.w3.org/2000/svg" version="1.1"><circle cx="50" cy="50" r="45" stroke="#ccc" stroke-width="10" fill="none" /><text x="50%" y="50%" text-anchor="middle" dy=".5rem" style="fill:gray;stroke:none;">2</text><path d="M 50 5 A 45 45 0 1 1 12 75" stroke="gray" stroke-width="10" fill="none"/></svg></div><div class="footer"></div></a></div></div><div style="width:33.333333333333%;min-width:72px;max-width:120px;display:inline-block;"><div class="ff-fact-box small compatibility"><a href="#" data-ffw="popover" data-ff-size="large" data-ff-tpl="popover.message" data-ff-tpl-param-title="Compatibility" data-ff-tpl-param-message="<table width='100%'><tr><th>Measure</th><th>Result</th></tr><tr><td>Zodiac</td><td>100%</td></tr><tr><td>Chinese zodiac</td><td>40%</td></tr><tr><td>Height</td><td>55%</td></tr><tr><td>Age</td><td>98%</td></tr></table>"><div class="header">Compatibility</div><div class="fact "><div class="rating"><i class="icon-heart"></i><i class="icon-heart"></i><i class="icon-heart"></i><i class="icon-heart"></i><i class="icon-heart-empty"></i></div></div><div class="footer">73%</div></a></div></div></div><div class="ff-thumbs"><div style="width:100%;height:2px;"><div style="float:left;width:84.356044576104%;border-bottom:2px solid green;"></div><div style="float:left;width:15.643955423896%;border-bottom:2px solid red;"></div></div><span onClick="contentVote('v449201595201',44920,1,59520,1,'nick-jonas-and-selena-gomez');return false;" 
+		data-tooltip aria-haspopup="true" class="has-tip tip-left" title="I like this" 		><i class="icon-thumbs-up"></i><v class="v449201595201">11960</v></span><span onClick="contentVote('v44920159520-1',44920,1,59520,'-1','nick-jonas-and-selena-gomez');return false;"
+		 data-tooltip aria-haspopup="true" class="has-tip tip-right" title="I dislike this" 		><i class="icon-thumbs-down"></i><v class="v44920159520-1">2218</v></span></div><a class="button radius small ff-view-button" href="nick-jonas-and-selena-gomez"  data-ff-gx="View Couple,nick-jonas-and-selena-gomez" data-ff-gx-click>view relationship</a></div></div></div></div><div style="clear:both;"></div><div style="padding-top: 2rem;"><div class="ff-advert ff-advert-flex"><div><div class="ff-adblock" style="margin:0 auto;min-width:auto;min-height:auto"><div id="contentad13992"></div><script type="text/javascript">
+    (function(d) {
+        var params =
+        {
+            id: "7a4cd0cc-0fb2-497a-81fa-3426f02cfb67",
+            d: "d2hvc2RhdGVkd2hvLmNvbQ==",
+            wid: "13992",
+            cb: (new Date()).getTime()
+        };
+        var qs = Object.keys(params).reduce(function(a, k){ a.push(k + '=' + encodeURIComponent(params[k])); return a},[]).join(String.fromCharCode(38));
+        var s = d.createElement('script'); s.type='text/javascript';s.async=true;
+        var p = 'https:' == document.location.protocol ? 'https' : 'http';
+        s.src = p + "://api.content-ad.net/Scripts/widget2.aspx?" + qs;
+        d.getElementById("contentad13992").appendChild(s);
+    })(document);
+</script></div></div></div></div></div></fieldset>		<fieldset  data-ff-trx="eb" data-ff-id="topic.partnerComparison" class="ff-dropitem block-topic-partnerComparison" data-ff-name="topic.partnerComparison"><div id="section-partner-comparison" style="margin:-4rem 0 4rem;"></div><div class="ff-block-header " ><h2>
+										Partner Comparison 
+									
+								</h2></div><div class="ff-block-content " id="ff-partner-comparison"><table class="ff-table" width="100%"><thead><tr><th width="25%" >Name</th><th width="12%" >Age</th><th width="23%" >Zodiac</th><th width="20%" >Occupation</th><th width="20%" >Nationality</th></tr></thead><tbody><tr><td><a href="https://www.whosdatedwho.com/dating/selena-gomez">Selena Gomez</a></td><td>28</td><td><i class="icon-46"></i>
+
+Cancer</td><td>Singer</td><td><img class="ff-flag" src="//pts2.whosdatedwho.com/static/flags/us.png" style="width:50px;display:inline-block;border: 1px solid #ddd;"><br />American</td></tr><tr><td><a href="https://www.whosdatedwho.com/dating/the-weeknd">The Weeknd</a></td><td>30</td><td><i class="icon-41"></i>
+
+Aquarius</td><td>Singer</td><td><img class="ff-flag" src="//pts2.whosdatedwho.com/static/flags/ca.png" style="width:50px;display:inline-block;border: 1px solid #ddd;"><br />Canadian</td></tr><tr><td><a href="https://www.whosdatedwho.com/dating/zedd">Zedd (producer)</a></td><td>31</td><td><i class="icon-48"></i>
+
+Virgo</td><td>Disc Jockey</td><td><img class="ff-flag" src="//pts2.whosdatedwho.com/static/flags/de.png" style="width:50px;display:inline-block;border: 1px solid #ddd;"><br />German</td></tr><tr><td><a href="https://www.whosdatedwho.com/dating/justin-bieber">Justin Bieber</a></td><td>26</td><td><i class="icon-42"></i>
+
+Pisces</td><td>Singer</td><td><img class="ff-flag" src="//pts2.whosdatedwho.com/static/flags/ca.png" style="width:50px;display:inline-block;border: 1px solid #ddd;"><br />Canadian</td></tr><tr><td><a href="https://www.whosdatedwho.com/dating/taylor-lautner">Taylor Lautner</a></td><td>28</td><td><i class="icon-41"></i>
+
+Aquarius</td><td>Actor</td><td><img class="ff-flag" src="//pts2.whosdatedwho.com/static/flags/us.png" style="width:50px;display:inline-block;border: 1px solid #ddd;"><br />American</td></tr><tr><td><a href="https://www.whosdatedwho.com/dating/nick-jonas">Nick Jonas</a></td><td>28</td><td><i class="icon-48"></i>
+
+Virgo</td><td>Singer</td><td><img class="ff-flag" src="//pts2.whosdatedwho.com/static/flags/us.png" style="width:50px;display:inline-block;border: 1px solid #ddd;"><br />American</td></tr></tbody></table></div></fieldset>				<fieldset  data-ff-trx="eb" data-ff-id="topic.gallery" class="ff-dropitem block-topic-gallery" data-ff-name="topic.gallery"><div id="section-photo-gallery" style="margin:-4rem 0 4rem;"></div><div class="ff-block-header " ><h2>
+										Photo Gallery 
+									
+								</h2></div><div class="ff-block-content " id="ff-photo-gallery"><div style="max-width:650px;"><!-- Slider main container --><div data-ffw="gallery" 
+		data-ff-display-id="gallery-display-59520"
+		data-ff-thumbs-id="gallery-thumbs-59520"
+		data-ff-topic="59520"
+><div id="gallery-display-59520" class="swiper-container ff-swiper-gallery-display"><div class="swiper-wrapper"><div class="swiper-slide"><img src="//img2.bdbphotos.com/images/orig/g/i/gie0qhd209r5g5e0.jpg?skj2io4l"><div class="ff-caption">Selena Gomez</div></div><div class="swiper-slide"><img src="//img5.bdbphotos.com/images/orig/c/j/cj37fjg089a480af.jpg?skj2io4l"><div class="ff-caption">Selena Gomez &amp;#8211; CR Fashion Book (China &amp;#8211; November 2020 Issue)</div></div><div class="swiper-slide"><img src="//img1.bdbphotos.com/images/orig/i/q/iqm2q0yyxnqppqy.jpg?skj2io4l"><div class="ff-caption">Selena Gomez &amp;#8211; CR Fashion Book (China &amp;#8211; November 2020 Issue)</div></div><div class="swiper-slide"><img src="//img5.bdbphotos.com/images/orig/w/f/wfwfqio66rrhhr6.jpg?skj2io4l"><div class="ff-caption">Selena Gomez &amp;#8211; CR Fashion Book (China &amp;#8211; November 2020 Issue)</div></div><div class="swiper-slide"><img src="//img2.bdbphotos.com/images/orig/g/d/gd3u2c0hgqywgw3g.jpg?skj2io4l"><div class="ff-caption">Selena Gomez &amp;#8211; CR Fashion Book (China &amp;#8211; November 2020 Issue)</div></div><div class="swiper-slide"><img src="//img2.bdbphotos.com/images/orig/e/w/ews2y2biss80we2s.jpg?skj2io4l"><div class="ff-caption">Selena Gomez &amp;#8211; CR Fashion Book (China &amp;#8211; November 2020 Issue)</div></div><div class="swiper-slide"><img src="//img1.bdbphotos.com/images/orig/h/v/hvtwwd0embfuwtdu.jpg?skj2io4l"><div class="ff-caption">Selena Gomez &amp;#8211; CR Fashion Book (China &amp;#8211; November 2020 Issue)</div></div><div class="swiper-slide"><img src="//img6.bdbphotos.com/images/orig/x/1/x1pffqutf3ep3fpq.jpg?skj2io4l"><div class="ff-caption">Selena Gomez &amp;#8211; CR Fashion Book (China &amp;#8211; November 2020 Issue)</div></div><div class="swiper-slide"><img src="//img2.bdbphotos.com/images/orig/v/4/v4kas80jbenjne0.jpg?skj2io4l"><div class="ff-caption">Selena Gomez &amp;#8211; CR Fashion Book (China &amp;#8211; November 2020 Issue)</div></div><div class="swiper-slide"><img src="//img2.bdbphotos.com/images/orig/l/t/ltdmnvdywquunmdl.jpg?skj2io4l"><div class="ff-caption">Selena Gomez &amp;#8211; CR Fashion Book (China &amp;#8211; November 2020 Issue)</div></div><div class="swiper-slide"><img src="//img2.bdbphotos.com/images/orig/5/w/5w98e6j9m00o9j08.jpg?skj2io4l"><div class="ff-caption">Selena Gomez &amp;#8211; CR Fashion Book (China &amp;#8211; November 2020 Issue)</div></div><div class="swiper-slide"><img src="//img2.bdbphotos.com/images/orig/v/m/vm9641jf4i43fji6.jpg?skj2io4l"><div class="ff-caption">Selena Gomez &amp;#8211; CR Fashion Book (China &amp;#8211; November 2020 Issue)</div></div></div><!-- Add Arrows --><div class="swiper-button-next swiper-button-white"></div><div class="swiper-button-prev swiper-button-white"></div></div><div id="gallery-thumbs-59520" class="swiper-container ff-swiper-gallery-thumbs"><div class="swiper-wrapper"><div class="swiper-slide" style="background-image:url(//img2.bdbphotos.com/images/orig/g/i/gie0qhd209r5g5e0.jpg?skj2io4l)"></div><div class="swiper-slide" style="background-image:url(//img5.bdbphotos.com/images/orig/c/j/cj37fjg089a480af.jpg?skj2io4l)"></div><div class="swiper-slide" style="background-image:url(//img1.bdbphotos.com/images/orig/i/q/iqm2q0yyxnqppqy.jpg?skj2io4l)"></div><div class="swiper-slide" style="background-image:url(//img5.bdbphotos.com/images/orig/w/f/wfwfqio66rrhhr6.jpg?skj2io4l)"></div><div class="swiper-slide" style="background-image:url(//img2.bdbphotos.com/images/orig/g/d/gd3u2c0hgqywgw3g.jpg?skj2io4l)"></div><div class="swiper-slide" style="background-image:url(//img2.bdbphotos.com/images/orig/e/w/ews2y2biss80we2s.jpg?skj2io4l)"></div><div class="swiper-slide" style="background-image:url(//img1.bdbphotos.com/images/orig/h/v/hvtwwd0embfuwtdu.jpg?skj2io4l)"></div><div class="swiper-slide" style="background-image:url(//img6.bdbphotos.com/images/orig/x/1/x1pffqutf3ep3fpq.jpg?skj2io4l)"></div><div class="swiper-slide" style="background-image:url(//img2.bdbphotos.com/images/orig/v/4/v4kas80jbenjne0.jpg?skj2io4l)"></div><div class="swiper-slide" style="background-image:url(//img2.bdbphotos.com/images/orig/l/t/ltdmnvdywquunmdl.jpg?skj2io4l)"></div><div class="swiper-slide" style="background-image:url(//img2.bdbphotos.com/images/orig/5/w/5w98e6j9m00o9j08.jpg?skj2io4l)"></div><div class="swiper-slide" style="background-image:url(//img2.bdbphotos.com/images/orig/v/m/vm9641jf4i43fji6.jpg?skj2io4l)"></div></div></div></div></div></fieldset>		<fieldset  data-ff-trx="eb" data-ff-id="topic.filmography" class="ff-dropitem block-topic-filmography" data-ff-name="topic.filmography"><div id="section-filmography" style="margin:-4rem 0 4rem;"></div><div class="ff-block-header " ><h2>
+										Filmography 
+									
+								</h2></div><div class="ff-block-content " id="ff-filmography"><table class="ff-table" width="100%"><thead><tr><th width="40%" >Film</th><th width="10%" >Year</th><th width="30%" >Character</th><th width="20%" >Type</th></tr></thead><tbody><tr><td>Hotel Transylvania 4</td><td>2021</td><td>Mavis (voice)</td><td>Movie</td></tr><tr><td>Dolittle</td><td>2020</td><td>Betsy (voice)</td><td>Movie</td></tr><tr><td>A Rainy Day in New York</td><td>2019</td><td>Chan</td><td>Movie</td></tr><tr><td>The Dead Don't Die</td><td>2019</td><td>Zoe</td><td>Movie</td></tr><tr><td>Pantene: Selena Gomez</td><td>2019</td><td></td><td>Movie</td></tr><tr><td>Hotel Transylvania 3: Summer Vacation</td><td>2018</td><td>Mavis (voice)</td><td>Movie</td></tr><tr><td>A Love Story</td><td>2018</td><td></td><td>Short Film</td></tr><tr><td>Puppy!: A Hotel Transylvania Short'</td><td>2017</td><td>Mavis (voice)</td><td>Short Film</td></tr><tr><td>The Fundamentals of Caring</td><td>2016</td><td>Dot</td><td>Movie</td></tr><tr><td>In Dubious Battle</td><td>2016</td><td>Lisa</td><td>Movie</td></tr></tbody><tbody class="ff-filmography-table-toggle hide"><tr><td>Neighbors 2: Sorority Rising</td><td>2016</td><td>Phi Lambda President</td><td>Movie</td></tr><tr><td>Cashmere Cat Feat. Selena Gomez &amp; Tory Lanez: Trust Nobody</td><td>2016</td><td></td><td>Short Film</td></tr><tr><td>The Big Short</td><td>2015</td><td>Selena Gomez (uncredited)</td><td>Movie</td></tr><tr><td>Hotel Transylvania 2</td><td>2015</td><td>Mavis (voice)</td><td>Movie</td></tr><tr><td>Selena Gomez Feat. A$AP Rocky: Good for You - Version 2</td><td>2015</td><td></td><td>Short Film</td></tr><tr><td>Rudderless</td><td>2014</td><td>Kate</td><td>Movie</td></tr><tr><td>Behaving Badly</td><td>2014</td><td>Nina Pennington</td><td>Movie</td></tr><tr><td>Getaway</td><td>2013</td><td>The Kid</td><td>Movie</td></tr><tr><td>The Wizards Return: Alex vs. Alex</td><td>2013</td><td>Alex Russo, Evil Alex</td><td>TV Movie</td></tr><tr><td>Inside Amy Schumer</td><td>2013</td><td>Selena</td><td>TV Show</td></tr><tr><td>Searching</td><td>2013</td><td>Violet</td><td>Short Film</td></tr><tr><td>Selena Gomez: Slow Down - Lyric Video</td><td>2013</td><td></td><td>Movie</td></tr><tr><td>Hotel Transylvania</td><td>2012</td><td>Mavis (voice)</td><td>Movie</td></tr><tr><td>Aftershock</td><td>2012</td><td>V.I.P. Girl</td><td>Movie</td></tr><tr><td>Spring Breakers</td><td>2012</td><td>Faith</td><td>Movie</td></tr><tr><td>Monte Carlo</td><td>2011</td><td>Cordelia Winthrop Scott, Grace</td><td>Movie</td></tr><tr><td>The Muppets</td><td>2011</td><td>Selena Gomez</td><td>Movie</td></tr><tr><td>Arthur 3: The War of the Two Worlds</td><td>2010</td><td>Selenia (voice)</td><td>Movie</td></tr><tr><td>Ramona and Beezus</td><td>2010</td><td>Beezus Quimby</td><td>Movie</td></tr><tr><td>Selena Gomez: Un Año Sin Lluvia</td><td>2010</td><td></td><td>Short Film</td></tr><tr><td>Arthur and the Revenge of Maltazard</td><td>2009</td><td>Selenia (voice)</td><td>Movie</td></tr><tr><td>Princess Protection Program</td><td>2009</td><td>Carter</td><td>TV Movie</td></tr><tr><td>Wizards of Waverly Place: The Movie</td><td>2009</td><td>Alex Russo</td><td>TV Movie</td></tr><tr><td>Selena Gomez: Magic</td><td>2009</td><td></td><td>Short Film</td></tr><tr><td>Horton Hears a Who!</td><td>2008</td><td>Helga (voice)</td><td>Movie</td></tr><tr><td>The Suite Life on Deck</td><td>2008</td><td>Alex Russo</td><td>TV Show</td></tr><tr><td>Selena Gomez: Fly to Your Heart</td><td>2008</td><td>Selena Gomez</td><td>Short Film</td></tr><tr><td>What&#x27;s Stevie Thinking?</td><td>2007</td><td>Stevie Sanchez</td><td>TV Show</td></tr><tr><td>Arwin!</td><td>2007</td><td>Alexa</td><td>TV Show</td></tr><tr><td>Wizards of Waverly Place</td><td>2007</td><td>Alex Russo</td><td>TV Show</td></tr><tr><td>Brain Zapped</td><td>2006</td><td>Emily Grace Garcia</td><td>TV Show</td></tr><tr><td>Hannah Montana</td><td>2006</td><td>Mikayla</td><td>TV Show</td></tr><tr><td>House Broken</td><td>2006</td><td>Alexa</td><td>TV Movie</td></tr><tr><td>Walker, Texas Ranger: Trial by Fire</td><td>2005</td><td>Julie</td><td>TV Movie</td></tr><tr><td>The Suite Life of Zack and Cody</td><td>2005</td><td>Gwen</td><td>TV Show</td></tr><tr><td>Spy Kids 3-D: Game Over</td><td>2003</td><td>Waterpark Girl</td><td>Movie</td></tr><tr><td>Barney &#x26; Friends</td><td>1992</td><td>Gianna</td><td>TV Show</td></tr></tbody></table><div class="ff-toggler text-center left" style="width:100%;margin-top: 2rem;" data-ff-toggle=".ff-filmography-table-toggle" data-ff-scroll><div class="ff-filmography-table-toggle" style="width: 100%;padding-top:1rem;border-top:1px solid #ddd"><div style="margin-top: -2.0rem;font-size: 2rem;"><i class="icon-angle-circled-down""></i></div>
+			Show More
+		</div><div class="ff-filmography-table-toggle hide" style="width: 100%;padding-top:1rem;border-top:1px solid #ddd"><div style="margin-top: -2.0rem;font-size: 2rem;"><i class="icon-angle-circled-up""></i></div>
+			Show Less
+		</div></div></div></fieldset>		<fieldset  data-ff-trx="eb" data-ff-id="topic.onscreenMatchupsGrid" class="ff-dropitem block-topic-onscreenMatchupsGrid" data-ff-name="topic.onscreenMatchupsGrid"><div id="section-onscreen-matchups" style="margin:-4rem 0 4rem;"></div><div class="ff-block-header onscreen" ><h2>
+										Onscreen Matchups 
+									
+								</h2></div><div class="ff-block-content onscreen" id="ff-onscreen-matchups"><div class="ff-box-grid ff-onscreen" style="margin:0;"><ul><li class="ff-panel left"><a href="https://www.whosdatedwho.com/dating/andrew-seeley-and-selena-gomez"><img width="130" height="130" style="width:130px;height:130px;" src="//img3.bdbphotos.com/images/130x130/d/8/d8um8764ybgy7yy.jpg?skj2io4l" alt="Andrew Seeley and Selena Gomez" class=" " data-ff-img-fallback="//img3.bdbphotos.com/images/80x80/d/8/d8um8764ybgy4b.jpg?skj2io4l" /></a><a href="https://www.whosdatedwho.com/dating/drew-seeley">Drew Seeley</a><a href="https://www.whosdatedwho.com/dating/andrew-seeley-and-selena-gomez"><ul><li>
+							Another Cinderella Story<br />
+							2008
+						</li></ul><span class="ff-bottom">[view matchup]</span></a></li><li class="ff-panel left"><a href="https://www.whosdatedwho.com/dating/andrey-kupchenko-and-selena-gomez"><img width="130" height="130" style="width:130px;height:130px;" src="//img3.bdbphotos.com/images/130x130/l/4/l446o52vr4yloyv.jpg?skj2io4l" alt="Andrey Kupchenko and Selena Gomez" class=" " data-ff-img-fallback="//img3.bdbphotos.com/images/80x80/l/4/l446o52vr4yll2r.jpg?skj2io4l" /></a><a href="https://www.whosdatedwho.com/dating/andrey-kupchenko">Andrey Kupchenko</a><a href="https://www.whosdatedwho.com/dating/andrey-kupchenko-and-selena-gomez"><ul><li>
+							Selena Gomez: Back to You<br />
+							2018
+						</li></ul><span class="ff-bottom">[view matchup]</span></a></li><li class="ff-panel left"><a href="https://www.whosdatedwho.com/dating/andy-samberg-and-selena-gomez"><img width="130" height="130" style="width:130px;height:130px;" src="//img3.bdbphotos.com/images/130x130/5/b/5bqgoa0s89s0sbso.jpg?skj2io4l" alt="Andy Samberg and Selena Gomez" class=" " data-ff-img-fallback="//img3.bdbphotos.com/images/80x80/5/b/5bqgoa0s89s08gsa.jpg?skj2io4l" /></a><a href="https://www.whosdatedwho.com/dating/andy-samberg">Andy Samberg</a><a href="https://www.whosdatedwho.com/dating/andy-samberg-and-selena-gomez"><ul><li>
+							Hotel Transylvania 2<br />
+							2015
+						</li></ul><span class="ff-bottom">[+3 more]</span></a></li><li class="ff-panel left"><a href="https://www.whosdatedwho.com/dating/christopher-mason-and-selena-gomez"><img width="130" height="130" style="width:130px;height:130px;" src="//img3.bdbphotos.com/images/130x130/r/0/r06b9r6h1bfur16u.jpg?skj2io4l" alt="Christopher Mason and Selena Gomez" class=" " data-ff-img-fallback="//img3.bdbphotos.com/images/80x80/r/0/r06b9r6h1bfubfrr.jpg?skj2io4l" /></a><a href="https://www.whosdatedwho.com/dating/christopher-mason">Christopher Mason</a><a href="https://www.whosdatedwho.com/dating/christopher-mason-and-selena-gomez"><ul><li>
+							Selena Gomez: Hands to Myself<br />
+							2015
+						</li></ul><span class="ff-bottom">[view matchup]</span></a></li><li class="ff-panel left"><a href="https://www.whosdatedwho.com/dating/cole-sprouse-and-selena-gomez"><img width="130" height="130" style="width:130px;height:130px;" src="//img3.bdbphotos.com/images/130x130/6/i/6iv5b78iluv55u8.jpg?skj2io4l" alt="Cole Sprouse and Selena Gomez" class=" " data-ff-img-fallback="//img3.bdbphotos.com/images/80x80/6/i/6iv5b78iluv5v7i.jpg?skj2io4l" /></a><a href="https://www.whosdatedwho.com/dating/cole-sprouse">Cole Sprouse</a><a href="https://www.whosdatedwho.com/dating/cole-sprouse-and-selena-gomez"><ul><li>
+							The Suite Life of Zack and Cody<br />
+							2005
+						</li></ul><span class="ff-bottom">[view matchup]</span></a></li><li class="ff-panel left"><a href="https://www.whosdatedwho.com/dating/hutch-dano-and-selena-gomez"><img width="130" height="130" style="width:130px;height:130px;" src="//img3.bdbphotos.com/images/130x130/v/z/vzudvhuov11chcv.jpg?skj2io4l" alt="Hutch Dano and Selena Gomez" class=" " data-ff-img-fallback="//img3.bdbphotos.com/images/80x80/v/z/vzudvhuov11co1.jpg?skj2io4l" /></a><a href="https://www.whosdatedwho.com/dating/hutch-dano">Hutch Dano</a><a href="https://www.whosdatedwho.com/dating/hutch-dano-and-selena-gomez"><ul><li>
+							Ramona and Beezus<br />
+							2010
+						</li></ul><span class="ff-bottom">[view matchup]</span></a></li><li class="ff-panel left"><a href="https://www.whosdatedwho.com/dating/james-franco-and-selena-gomez"><img width="130" height="130" style="width:130px;height:130px;" src="//img3.bdbphotos.com/images/130x130/6/t/6tbevszd1mu6s1b6.jpg?skj2io4l" alt="James Franco and Selena Gomez" class=" " data-ff-img-fallback="//img3.bdbphotos.com/images/80x80/6/t/6tbevszd1mu6eus6.jpg?skj2io4l" /></a><a href="https://www.whosdatedwho.com/dating/james-franco">James Franco</a><a href="https://www.whosdatedwho.com/dating/james-franco-and-selena-gomez"><ul><li>
+							Spring Breakers<br />
+							2012
+						</li></ul><span class="ff-bottom">[view matchup]</span></a></li><li class="ff-panel left"><a href="https://www.whosdatedwho.com/dating/nat-wolff-and-selena-gomez"><img width="130" height="130" style="width:130px;height:130px;" src="//img3.bdbphotos.com/images/130x130/s/3/s3pa79duru6uduas.jpg?skj2io4l" alt="Nat Wolff and Selena Gomez" class=" " data-ff-img-fallback="//img3.bdbphotos.com/images/80x80/s/3/s3pa79duru6u7ud3.jpg?skj2io4l" /></a><a href="https://www.whosdatedwho.com/dating/nat-wolff">Nat Wolff</a><a href="https://www.whosdatedwho.com/dating/nat-wolff-and-selena-gomez"><ul><li>
+							Behaving Badly<br />
+							2014
+						</li></ul><span class="ff-bottom">[+2 more]</span></a></li><div class="ff-onscreen-toggle hide"><li class="ff-panel left"><a href="https://www.whosdatedwho.com/dating/selena-gomez-and-cody-linley"><img width="130" height="130" style="width:130px;height:130px;" src="//img3.bdbphotos.com/images/130x130/g/3/g3q55uf5dpwuudqu.jpg?skj2io4l" alt="Selena Gomez and Cody Linley" class=" " data-ff-img-fallback="//img3.bdbphotos.com/images/80x80/g/3/g3q55uf5dpwu5wug.jpg?skj2io4l" /></a><a href="https://www.whosdatedwho.com/dating/cody-linley">Cody Linley</a><a href="https://www.whosdatedwho.com/dating/selena-gomez-and-cody-linley"><ul><li>
+							Hannah Montana<br />
+							2006
+						</li></ul><span class="ff-bottom">[view matchup]</span></a></li><li class="ff-panel left"><a href="https://www.whosdatedwho.com/dating/selena-gomez-and-craig-roberts"><img width="130" height="130" style="width:130px;height:130px;" src="//img3.bdbphotos.com/images/130x130/m/g/mgu0cfs1wio2si.jpg?skj2io4l" alt="Selena Gomez and Craig Roberts" class=" " data-ff-img-fallback="//img3.bdbphotos.com/images/80x80/m/g/mgu0cfs1wio2wo.jpg?skj2io4l" /></a><a href="https://www.whosdatedwho.com/dating/craig-roberts">Craig Roberts</a><a href="https://www.whosdatedwho.com/dating/selena-gomez-and-craig-roberts"><ul><li>
+							The Fundamentals of Caring<br />
+							2016
+						</li></ul><span class="ff-bottom">[+1 more]</span></a></li><li class="ff-panel left"><a href="https://www.whosdatedwho.com/dating/selena-gomez-and-daniel-samonas-2"><img width="130" height="130" style="width:130px;height:130px;" src="//img3.bdbphotos.com/images/130x130/v/7/v7djpyvced5syse.jpg?skj2io4l" alt="Selena Gomez and Daniel Samonas" class=" " data-ff-img-fallback="//img3.bdbphotos.com/images/80x80/v/7/v7djpyvced5scd.jpg?skj2io4l" /></a><a href="https://www.whosdatedwho.com/dating/daniel-samonas">Daniel Samonas</a><a href="https://www.whosdatedwho.com/dating/selena-gomez-and-daniel-samonas-2"><ul><li>
+							Beverly Hills Chihuahua<br />
+							2008
+						</li></ul><span class="ff-bottom">[+1 more]</span></a></li><li class="ff-panel left"><a href="https://www.whosdatedwho.com/dating/selena-gomez-and-david-henrie"><img width="130" height="130" style="width:130px;height:130px;" src="//img3.bdbphotos.com/images/130x130/t/h/thrgqip8ijq7pjgt.jpg?skj2io4l" alt="Selena Gomez and David Henrie" class=" " data-ff-img-fallback="//img3.bdbphotos.com/images/80x80/t/h/thrgqip8ijq7q7ph.jpg?skj2io4l" /></a><a href="https://www.whosdatedwho.com/dating/david-henrie">David Henrie</a><a href="https://www.whosdatedwho.com/dating/selena-gomez-and-david-henrie"><ul><li>
+							Wizards of Waverly Place<br />
+							2007
+						</li></ul><span class="ff-bottom">[+1 more]</span></a></li><li class="ff-panel left"><a href="https://www.whosdatedwho.com/dating/selena-gomez-and-freddie-highmore"><img width="130" height="130" style="width:130px;height:130px;" src="//img3.bdbphotos.com/images/130x130/0/w/0wx8ikubwl2zl0u8.jpg?skj2io4l" alt="Selena Gomez and Freddie Highmore" class=" " data-ff-img-fallback="//img3.bdbphotos.com/images/80x80/0/w/0wx8ikubwl2zbxli.jpg?skj2io4l" /></a><a href="https://www.whosdatedwho.com/dating/freddie-highmore">Freddie Highmore</a><a href="https://www.whosdatedwho.com/dating/selena-gomez-and-freddie-highmore"><ul><li>
+							Arthur 3: The War of the Two Worlds<br />
+							2010
+						</li></ul><span class="ff-bottom">[+1 more]</span></a></li><li class="ff-panel left"><a href="https://www.whosdatedwho.com/dating/selena-gomez-and-grant-gustin"><img width="130" height="130" style="width:130px;height:130px;" src="//img3.bdbphotos.com/images/130x130/b/2/b2tvql448k7pkb4v.jpg?skj2io4l" alt="Selena Gomez and Grant Gustin" class=" " data-ff-img-fallback="//img3.bdbphotos.com/images/80x80/b/2/b2tvql448k7p4tkq.jpg?skj2io4l" /></a><a href="https://www.whosdatedwho.com/dating/grant-gustin">Grant Gustin</a><a href="https://www.whosdatedwho.com/dating/selena-gomez-and-grant-gustin"><ul><li>
+							Monte Carlo<br />
+							2011
+						</li></ul><span class="ff-bottom">[view matchup]</span></a></li><li class="ff-panel left"><a href="https://www.whosdatedwho.com/dating/selena-gomez-and-gregg-sulkin"><img width="130" height="130" style="width:130px;height:130px;" src="//img3.bdbphotos.com/images/130x130/v/4/v4k1nowhux1oh1n4.jpg?skj2io4l" alt="Selena Gomez and Gregg Sulkin" class=" " data-ff-img-fallback="//img3.bdbphotos.com/images/80x80/v/4/v4k1nowhux1oovhk.jpg?skj2io4l" /></a><a href="https://www.whosdatedwho.com/dating/gregg-sulkin">Gregg Sulkin</a><a href="https://www.whosdatedwho.com/dating/selena-gomez-and-gregg-sulkin"><ul><li>
+							Wizards of Waverly Place<br />
+							2007
+						</li></ul><span class="ff-bottom">[+1 more]</span></a></li><li class="ff-panel left"><a href="https://www.whosdatedwho.com/dating/selena-gomez-and-pierre-boulanger"><img width="130" height="130" style="width:130px;height:130px;" src="//img3.bdbphotos.com/images/130x130/m/n/mnjh7u73jibc7i.jpg?skj2io4l" alt="Selena Gomez and Pierre Boulanger" class=" " data-ff-img-fallback="//img3.bdbphotos.com/images/80x80/m/n/mnjh7u73jibcjb.jpg?skj2io4l" /></a><a href="https://www.whosdatedwho.com/dating/pierre-boulanger">Pierre Boulanger</a><a href="https://www.whosdatedwho.com/dating/selena-gomez-and-pierre-boulanger"><ul><li>
+							Monte Carlo<br />
+							2011
+						</li></ul><span class="ff-bottom">[view matchup]</span></a></li><li class="ff-panel left"><a href="https://www.whosdatedwho.com/dating/selena-gomez-and-robert-adamson"><img width="130" height="130" style="width:130px;height:130px;" src="//img3.bdbphotos.com/images/130x130/b/m/bm0x4ohiqim64imm.jpg?skj2io4l" alt="Selena Gomez and Robert Adamson" class=" " data-ff-img-fallback="//img3.bdbphotos.com/images/80x80/b/m/bm0x4ohiqim60i46.jpg?skj2io4l" /></a><a href="https://www.whosdatedwho.com/dating/robert-adamson">Robert Adamson</a><a href="https://www.whosdatedwho.com/dating/selena-gomez-and-robert-adamson"><ul><li>
+							Princess Protection Program<br />
+							2009
+						</li></ul><span class="ff-bottom">[view matchup]</span></a></li><li class="ff-panel left"><a href="https://www.whosdatedwho.com/dating/shiloh-fernandez-and-selena-gomez"><img width="130" height="130" style="width:130px;height:130px;" src="//img3.bdbphotos.com/images/130x130/u/0/u0n17vn2wuw0w0vn.jpg?skj2io4l" alt="Shiloh Fernandez and Selena Gomez" class=" " data-ff-img-fallback="//img3.bdbphotos.com/images/80x80/u/0/u0n17vn2wuw0n0w1.jpg?skj2io4l" /></a><a href="https://www.whosdatedwho.com/dating/shiloh-fernandez">Shiloh Fernandez</a><a href="https://www.whosdatedwho.com/dating/shiloh-fernandez-and-selena-gomez"><ul><li>
+							Selena Gomez: The Heart Wants What It Wants<br />
+							2014
+						</li></ul><span class="ff-bottom">[+1 more]</span></a></li><li class="ff-panel left"><a href="https://www.whosdatedwho.com/dating/timothee-chalamet-and-selena-gomez"><img width="130" height="130" style="width:130px;height:130px;" src="//img3.bdbphotos.com/images/130x130/p/i/pilubwlbecr8lc.jpg?skj2io4l" alt="Timothée Chalamet and Selena Gomez" class=" " data-ff-img-fallback="//img3.bdbphotos.com/images/80x80/p/i/pilubwlbecr8er.jpg?skj2io4l" /></a><a href="https://www.whosdatedwho.com/dating/timothee-chalamet">Timothée Chalamet</a><a href="https://www.whosdatedwho.com/dating/timothee-chalamet-and-selena-gomez"><ul><li>
+							A Rainy Day in New York<br />
+							2019
+						</li></ul><span class="ff-bottom">[view matchup]</span></a></li></div></ul></div><div class="text-center left" style="width:100%;margin-top: 2rem;" data-ff-toggle=".ff-onscreen-toggle" data-ff-scroll><div class="ff-onscreen-toggle" style="width: 100%;padding-top:1rem;border-top:1px solid #ddd"><div style="margin-top: -2.0rem;font-size: 2rem;"><i class="icon-angle-circled-down" style="background-color:#f3f3f3;"></i></div>
+		More Selena Gomez Onscreen Matchups
+	</div><div class="ff-onscreen-toggle hide" style="width: 100%;padding-top:1rem;border-top:1px solid #ddd"><div style="margin-top: -2.0rem;font-size: 2rem;"><i class="icon-angle-circled-up" style="background-color:#f3f3f3;"></i></div>
+		Less Selena Gomez Onscreen Matchups
+	</div></div></div></fieldset>		<fieldset  data-ff-trx="eb" data-ff-id="global.adDFP_NativeConversationalist" class="ff-dropitem block-global-adDFP_NativeConversationalist" data-ff-name="global.adDFP_NativeConversationalist"><div class="ff-advert ff-advert-native"><div class="ff-panel"><div class="ff-adblock" style="margin:0 auto;min-width:auto;min-height:auto"><script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script><div style="float:left; padding-left:0px;"><!-- WDW break bottom left --><ins class="adsbygoogle"
+     style="display:inline-block;width:300px;height:250px"
+     data-ad-client="ca-pub-4166127396088587"
+     data-ad-slot="1566001026"></ins><script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script></div><div style="float:right; padding-right:0px;"><!-- WDW break bottom right --><ins class="adsbygoogle"
+     style="display:inline-block;width:300px;height:250px"
+     data-ad-client="ca-pub-4166127396088587"
+     data-ad-slot="5313674349"></ins><script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script></div><div style="clear:both;"></div></div></div></div></fieldset>		<fieldset  data-ff-trx="eb" data-ff-id="topic.comments" class="ff-dropitem block-topic-comments" data-ff-name="topic.comments"><div id="section-discussions" style="margin:-4rem 0 4rem;"></div><div class="ff-block-header " ><h2>
+										Discussions 
+									
+								</h2></div><div class="ff-block-content " id="ff-discussions"><div class="ff-panel"><h3>Posted comments<small><a href="https://www.famousfix.com/topic/selena-gomez/forum" title="Selena Gomez discussion board">View all comments (6502)</a></small></h3><div data-ffw="content" data-ff-eid="103372103" data-ff-url="" data-ff-tid="6" data-ff-id="103372108" data-ff-title="𝐈 𝐠𝐞𝐭 𝐩𝐚𝐢𝐝 𝐨𝐯𝐞𝐫 $𝟏𝟗𝟎 𝐩𝐞𝐫 𝐡𝐨𝐮𝐫 𝐰𝐨𝐫𝐤𝐢𝐧𝐠 𝐟𝐫𝐨𝐦 𝐡𝐨𝐦𝐞 𝐰𝐢𝐭𝐡 𝟐 𝐤𝐢𝐝𝐬 𝐚𝐭 𝐡𝐨𝐦𝐞. 𝐈 𝐧𝐞𝐯𝐞𝐫 𝐭𝐡𝐨𝐮𝐠𝐡𝐭 𝐈&#039;𝐝 𝐛𝐞 𝐚𝐛𝐥𝐞 𝐭𝐨 𝐝𝐨 𝐢𝐭 𝐛𝐮𝐭 𝐦𝐲 𝐛𝐞𝐬𝐭 𝐟𝐫𝐢𝐞𝐧𝐝 𝐞𝐚𝐫𝐧𝐬 𝐨𝐯𝐞𝐫 𝟏𝟓𝐤 𝐚 𝐦𝐨𝐧𝐭𝐡 𝐝𝐨𝐢𝐧𝐠 𝐭𝐡𝐢𝐬 𝐚𝐧𝐝 𝐬𝐡𝐞 𝐜𝐨𝐧𝐯𝐢𝐧𝐜𝐞𝐝 𝐦𝐞 𝐭𝐨 𝐭𝐫𝐲…….. http://alturl.com/g9kzk" class="ff-comment-item"><a class="ff-user" href="http://members.famousfix.com/member/kidneydonate"><span class="ff-img" data-ff-image></span><span data-ff-webname>kidneydonate</span></a><span class="ff-bullet"></span><span data-ff-time="2020-10-15 10:32:19" class="ff-comment-time">Oct 15</span><p data-ff-auto-image class="ff-comment" data-ff-text>𝐈 𝐠𝐞𝐭 𝐩𝐚𝐢𝐝 𝐨𝐯𝐞𝐫 $𝟏𝟗𝟎 𝐩𝐞𝐫 𝐡𝐨𝐮𝐫 𝐰𝐨𝐫𝐤𝐢𝐧𝐠 𝐟𝐫𝐨𝐦 𝐡𝐨𝐦𝐞 𝐰𝐢𝐭𝐡 𝟐 𝐤𝐢𝐝𝐬 𝐚𝐭 𝐡𝐨𝐦𝐞. 𝐈 𝐧𝐞𝐯𝐞𝐫 𝐭𝐡𝐨𝐮𝐠𝐡𝐭 𝐈'𝐝 𝐛𝐞 𝐚𝐛𝐥𝐞 𝐭𝐨 𝐝𝐨 𝐢𝐭 𝐛𝐮𝐭 𝐦𝐲 𝐛𝐞𝐬𝐭 𝐟𝐫𝐢𝐞𝐧𝐝 𝐞𝐚𝐫𝐧𝐬 𝐨𝐯𝐞𝐫 𝟏𝟓𝐤 𝐚 𝐦𝐨𝐧𝐭𝐡 𝐝𝐨𝐢𝐧𝐠 𝐭𝐡𝐢𝐬 𝐚𝐧𝐝 𝐬𝐡𝐞 𝐜𝐨𝐧𝐯𝐢𝐧𝐜𝐞𝐝 𝐦𝐞 𝐭𝐨 𝐭𝐫𝐲…….. http://alturl.com/g9kzk</p></div><div data-ffw="content" data-ff-eid="103185981" data-ff-url="" data-ff-tid="6" data-ff-id="103204953" data-ff-title="https://nationeditions.com/selena-gomez-here-we-have-a-list-of-her-boyfriends-she-has-dated-so-far/" class="ff-comment-item"><a class="ff-user" href="http://members.famousfix.com/member/TheBlueLeo"><span class="ff-img" data-ff-image><img width="16" height="16" style="width:16px;height:16px;" src="//img4.bdbphotos.com/images/50x50/u/3/u3mhaj1kc1t31c.jpg?skj2io4l" alt="TheBlueLeo" class=" " /></span><span data-ff-webname>TheBlueLeo</span></a><span class="ff-bullet"></span><span data-ff-time="2020-09-21 17:03:29" class="ff-comment-time">Sep 21</span><p data-ff-auto-image class="ff-comment" data-ff-text>https://nationeditions.com/selena-gomez-here-we-have-a-list-of-her-boyfriends-she-has-dated-so-far/</p></div><div data-ffw="content" data-ff-eid="103185981" data-ff-url="" data-ff-tid="6" data-ff-id="103204952" data-ff-title="https://thebuzzpaper.com/selena-gomez-new-relationship-with-this-star/" class="ff-comment-item"><a class="ff-user" href="http://members.famousfix.com/member/TheBlueLeo"><span class="ff-img" data-ff-image><img width="16" height="16" style="width:16px;height:16px;" src="//img4.bdbphotos.com/images/50x50/u/3/u3mhaj1kc1t31c.jpg?skj2io4l" alt="TheBlueLeo" class=" " /></span><span data-ff-webname>TheBlueLeo</span></a><span class="ff-bullet"></span><span data-ff-time="2020-09-21 17:02:59" class="ff-comment-time">Sep 21</span><p data-ff-auto-image class="ff-comment" data-ff-text>https://thebuzzpaper.com/selena-gomez-new-relationship-with-this-star/</p></div><div data-ffw="content" data-ff-eid="103185981" data-ff-url="" data-ff-tid="6" data-ff-id="103204951" data-ff-title="https://www.elle.com/culture/a33950359/selena-gomez-boyfriend-dating-quarantine-exes-crazy/" class="ff-comment-item"><a class="ff-user" href="http://members.famousfix.com/member/TheBlueLeo"><span class="ff-img" data-ff-image><img width="16" height="16" style="width:16px;height:16px;" src="//img4.bdbphotos.com/images/50x50/u/3/u3mhaj1kc1t31c.jpg?skj2io4l" alt="TheBlueLeo" class=" " /></span><span data-ff-webname>TheBlueLeo</span></a><span class="ff-bullet"></span><span data-ff-time="2020-09-21 17:02:44" class="ff-comment-time">Sep 21</span><p data-ff-auto-image class="ff-comment" data-ff-text>https://www.elle.com/culture/a33950359/selena-gomez-boyfriend-dating-quarantine-exes-crazy/</p></div><div data-ffw="content" data-ff-eid="98584723" data-ff-url="" data-ff-tid="6" data-ff-id="103061813" data-ff-title="Селена Гомес размышляет о своем здоровье и любовной жизни https://kinonevs.ru/wp-content/uploads/2020/01/selena-gomez-in-wall-street-journal-february-2020.jpg" class="ff-comment-item"><a class="ff-user" href="http://members.famousfix.com/member/Mixis45"><span class="ff-img" data-ff-image><img width="16" height="16" style="width:16px;height:16px;" src="//img4.bdbphotos.com/images/50x50/m/r/mrve128chngon8o2.jpg?skj2io4l" alt="Mixis45" class=" " /></span><span data-ff-webname>Mixis45</span></a><span class="ff-bullet"></span><span data-ff-time="2020-09-04 16:02:32" class="ff-comment-time">Sep 4</span><p data-ff-auto-image class="ff-comment" data-ff-text>Селена Гомес размышляет о своем здоровье и любовной жизни https://kinonevs.ru/wp-content/uploads/2020/01/selena-gomez-in-wall-street-journal-february-2020.jpg</p></div><div data-ffw="content" data-ff-eid="89034397" data-ff-url="" data-ff-tid="6" data-ff-id="99663858" data-ff-title="Selena Gomez – Leaving Z100 after Promoting her Latest Songs in NY 10-29-2019 http://bit.ly/36izedq" class="ff-comment-item"><a class="ff-user" href="http://members.famousfix.com/member/Teenbabe1"><span class="ff-img" data-ff-image></span><span data-ff-webname>Teenbabe1</span></a><span class="ff-bullet"></span><span data-ff-time="2019-10-30 16:19:03" class="ff-comment-time">Oct 30, 2019</span><p data-ff-auto-image class="ff-comment" data-ff-text>Selena Gomez – Leaving Z100 after Promoting her Latest Songs in NY 10-29-2019 http://bit.ly/36izedq</p></div><div data-ffw="content" data-ff-eid="34530441" data-ff-url="" data-ff-tid="6" data-ff-id="97948018" data-ff-title="shared a link: https://www.triviatribute.com/selenagomez.html" class="ff-comment-item"><a class="ff-user" href="http://members.famousfix.com/member/eagle39"><span class="ff-img" data-ff-image></span><span data-ff-webname>eagle39</span></a><span class="ff-bullet"></span><span data-ff-time="2019-08-07 07:31:09" class="ff-comment-time">Aug 7, 2019</span><p data-ff-auto-image class="ff-comment" data-ff-text>shared a link: https://www.triviatribute.com/selenagomez.html</p></div><div data-ffw="content" data-ff-eid="95069463" data-ff-url="" data-ff-tid="6" data-ff-id="95069529" data-ff-title="gorgeous" class="ff-comment-item"><a class="ff-user" href="http://members.famousfix.com/member/Canon99"><span class="ff-img" data-ff-image><img width="16" height="16" style="width:16px;height:16px;" src="//img4.bdbphotos.com/images/50x50/l/i/li4nisih39bns4hi.jpg?skj2io4l" alt="Canon99" class=" " /></span><span data-ff-webname>Canon99</span></a><span class="ff-bullet"></span><span data-ff-time="2019-05-15 03:53:31" class="ff-comment-time">May 15, 2019</span><p data-ff-auto-image class="ff-comment" data-ff-text>gorgeous</p></div><div data-ffw="content" data-ff-eid="89733146" data-ff-url="" data-ff-tid="6" data-ff-id="89853188" data-ff-title="https://celebvogue.com/selena-gomez-wiki-bio-age-height-weight-career-lifestyle-net-worth/" class="ff-comment-item"><a class="ff-user" href="http://members.famousfix.com/member/CelebVogue"><span class="ff-img" data-ff-image><img width="16" height="16" style="width:16px;height:16px;" src="//img4.bdbphotos.com/images/50x50/l/t/ltf3rd17zfhfh71.jpg?skj2io4l" alt="CelebVogue" class=" " /></span><span data-ff-webname>CelebVogue</span></a><span class="ff-bullet"></span><span data-ff-time="2018-09-13 00:58:49" class="ff-comment-time">Sep 13, 2018</span><p data-ff-auto-image class="ff-comment" data-ff-text>https://celebvogue.com/selena-gomez-wiki-bio-age-height-weight-career-lifestyle-net-worth/</p></div><div data-ffw="content" data-ff-eid="89733146" data-ff-url="" data-ff-tid="6" data-ff-id="89853187" data-ff-title="https://celebvogue.com/wp-content/uploads/2018/07/Selena-Gomez.jpg" class="ff-comment-item"><a class="ff-user" href="http://members.famousfix.com/member/CelebVogue"><span class="ff-img" data-ff-image><img width="16" height="16" style="width:16px;height:16px;" src="//img4.bdbphotos.com/images/50x50/l/t/ltf3rd17zfhfh71.jpg?skj2io4l" alt="CelebVogue" class=" " /></span><span data-ff-webname>CelebVogue</span></a><span class="ff-bullet"></span><span data-ff-time="2018-09-13 00:57:28" class="ff-comment-time">Sep 13, 2018</span><p data-ff-auto-image class="ff-comment" data-ff-text>https://celebvogue.com/wp-content/uploads/2018/07/Selena-Gomez.jpg</p></div><div data-ffw="content" data-ff-eid="89479447" data-ff-url="" data-ff-tid="6" data-ff-id="89479450" data-ff-title="Hi" class="ff-comment-item"><a class="ff-user" href="http://members.famousfix.com/member/Sparnuotoji"><span class="ff-img" data-ff-image></span><span data-ff-webname>Sparnuotoji</span></a><span class="ff-bullet"></span><span data-ff-time="2018-07-25 15:38:07" class="ff-comment-time">Jul 25, 2018</span><p data-ff-auto-image class="ff-comment" data-ff-text>Hi</p></div><div data-ffw="content" data-ff-eid="89423980" data-ff-url="" data-ff-tid="6" data-ff-id="89470352" data-ff-title="She has four dogs – Chip, Willy, Fina and Wallace." class="ff-comment-item"><a class="ff-user" href="http://members.famousfix.com/member/Subhana49"><span class="ff-img" data-ff-image><img width="16" height="16" style="width:16px;height:16px;" src="//img4.bdbphotos.com/images/50x50/9/h/9hc8yi6e0wl1c1yl.jpg?skj2io4l" alt="Subhana49" class=" " /></span><span data-ff-webname>Subhana49</span></a><span class="ff-bullet"></span><span data-ff-time="2018-07-24 10:05:06" class="ff-comment-time">Jul 24, 2018</span><p data-ff-auto-image class="ff-comment" data-ff-text>She has four dogs – Chip, Willy, Fina and Wallace.</p></div><hr><a style="margin-top:-1rem;float:right;" href="https://www.famousfix.com/topic/selena-gomez/forum" title="Selena Gomez discussion board">Join the FamousFix discussion board >></a></div></div></fieldset>			</div>
+		<div data-ff-layout-block class="ff-cont-side ff-droplist" data-ff-name="side"  data-ffw="affix" data-ff-stick-to="target-top" data-ff-target="global.adDFP_RightMiddle" >		<fieldset  data-ff-trx="eb" data-ff-id="global.adDFP_RightTop" class="ff-dropitem block-global-adDFP_RightTop" data-ff-name="global.adDFP_RightTop"><div class="ff-advert ff-advert-flex"><div><div class="ff-adblock" style="margin:0 auto;min-width:auto;min-height:auto"><div style='min-height:250px;'><script type="text/javascript"><!--
+	e9 = new Object();
+    e9.size = "300x250,300x600";
+    e9.noAd = 1;
+//--></script><script type="text/javascript" src="//tags.expo9.exponential.com/tags/FamousFixcom/whosdatedwho/tags.js"></script></div></div></div></div></fieldset>		<fieldset  data-ff-trx="eb" data-ff-id="topic.relatedSearchesGrid" class="ff-dropitem block-topic-relatedSearchesGrid" data-ff-name="topic.relatedSearchesGrid"><div id="section-recommended" style="margin:-4rem 0 4rem;"></div><div class="ff-block-header " ><h2>
+										Recommended 
+									
+								</h2></div><div class="ff-block-content " id="ff-recommended"><div class="ff-panel"><h2>Recommended</h2><div class="ff-box-grid ff-small-square"><ul><li class="ff-grid-box ff-topic"><a href="https://www.whosdatedwho.com/dating/miley-cyrus"><img width="93" height="93" style="width:93px;height:93px;" src="//img3.bdbphotos.com/images/130x130/d/i/difjhtlxkragtgk.jpg?skj2io4l" alt="Miley Cyrus" class=" " /><div class="ff-name">Miley Cyrus</div><div class="ff-rank"><span class="ff-rank-num"><i class="icon-chart-line"></i><span>3</span></span><span class="ff-rank-change"><span>+2</span></span></div></a></li><li class="ff-grid-box ff-topic"><a href="https://www.whosdatedwho.com/dating/taylor-swift"><img width="93" height="93" style="width:93px;height:93px;" src="//img3.bdbphotos.com/images/130x130/c/9/c9pb3pa5bebaecab.jpg?skj2io4l" alt="Taylor Swift" class=" " /><div class="ff-name">Taylor Swift</div><div class="ff-rank"><span class="ff-rank-num"><i class="icon-chart-line"></i><span>5</span></span><span class="ff-rank-change"><span>+3</span></span></div></a></li><li class="ff-grid-box ff-topic"><a href="https://www.whosdatedwho.com/dating/demi-lovato"><img width="93" height="93" style="width:93px;height:93px;" src="//img3.bdbphotos.com/images/130x130/m/k/mkc1oinwguq2g2ic.jpg?skj2io4l" alt="Demi Lovato" class=" " /><div class="ff-name">Demi Lovato</div><div class="ff-rank"><span class="ff-rank-num"><i class="icon-chart-line"></i><span>29</span></span><span class="ff-rank-change"><span>0</span></span></div></a></li><li class="ff-grid-box ff-topic"><a href="https://www.whosdatedwho.com/dating/vanessa-hudgens"><img width="93" height="93" style="width:93px;height:93px;" src="//img3.bdbphotos.com/images/130x130/j/1/j1z41lxn6my7xm.jpg?skj2io4l" alt="Vanessa Hudgens" class=" " /><div class="ff-name">Vanessa Hudgens</div><div class="ff-rank"><span class="ff-rank-num"><i class="icon-chart-line"></i><span>20</span></span><span class="ff-rank-change"><span>+1</span></span></div></a></li><li class="ff-grid-box ff-topic"><a href="https://www.whosdatedwho.com/dating/david-henrie"><img width="93" height="93" style="width:93px;height:93px;" src="//img3.bdbphotos.com/images/130x130/c/8/c8rwy9csuyxx9xu.jpg?skj2io4l" alt="David Henrie" class=" " /><div class="ff-name">David Henrie</div><div class="ff-rank"><span class="ff-rank-num"><i class="icon-chart-line"></i><span>248</span></span><span class="ff-rank-change"><span>+4</span></span></div></a></li><li class="ff-grid-box ff-topic"><a href="https://www.whosdatedwho.com/dating/zac-efron"><img width="93" height="93" style="width:93px;height:93px;" src="//img3.bdbphotos.com/images/130x130/x/6/x60k2vyumpk7ypkx.jpg?skj2io4l" alt="Zac Efron" class=" " /><div class="ff-name">Zac Efron</div><div class="ff-rank"><span class="ff-rank-num"><i class="icon-chart-line"></i><span>9</span></span><span class="ff-rank-change"><span>+3</span></span></div></a></li></ul></div></div></div></fieldset>		<fieldset  data-ff-trx="eb" data-ff-id="topic.relatedLists" class="ff-dropitem block-topic-relatedLists" data-ff-name="topic.relatedLists"><div class="ff-block-content related-searches" id="ff-a0c4073f96b18f599c1f0fc16b8b9885"><div class="ff-panel"><h2>Related Lists</h2><div class="ff-box-grid ff-full-width ff-lists" style="margin:0;"><ul><li style="padding:0.25rem;font-size:0.9rem;"><a href="https://www.whosdatedwho.com/lists/american-film-actors" class="text-left" style="line-height:3rem;"><div class="left" style="padding-right:0.5rem"><img width="50" height="50" style="width:50px;height:50px;" src="//img4.bdbphotos.com/images/50x50/x/8/x8a78izss80f88zx.jpg?skj2io4l" alt="American film actors" class=" " /></div><div class="right" style="padding: 0.4rem 0;color:#666;"><i class="icon-angle-right" style="font-size: 2rem;"></i></div>
+					
+						American film actors
+					
+				</a></li><li style="padding:0.25rem;font-size:0.9rem;"><a href="https://www.whosdatedwho.com/lists/american-dance-musicians" class="text-left" style="line-height:3rem;"><div class="left" style="padding-right:0.5rem"><img width="50" height="50" style="width:50px;height:50px;" src="//img4.bdbphotos.com/images/50x50/s/7/s7ig8p6jjuiru6rp.jpg?skj2io4l" alt="American dance musicians" class=" " /></div><div class="right" style="padding: 0.4rem 0;color:#666;"><i class="icon-angle-right" style="font-size: 2rem;"></i></div>
+					
+						American dance musicians
+					
+				</a></li><li style="padding:0.25rem;font-size:0.9rem;"><a href="https://www.whosdatedwho.com/lists/american-female-singers" class="text-left" style="line-height:3rem;"><div class="left" style="padding-right:0.5rem"><img width="50" height="50" style="width:50px;height:50px;" src="//img4.bdbphotos.com/images/50x50/m/5/m5d5nwsqa5cxdxnc.jpg?skj2io4l" alt="American female singers" class=" " /></div><div class="right" style="padding: 0.4rem 0;color:#666;"><i class="icon-angle-right" style="font-size: 2rem;"></i></div>
+					
+						American female singers
+					
+				</a></li><li style="padding:0.25rem;font-size:0.9rem;"><a href="https://www.whosdatedwho.com/lists/american-pop-singers" class="text-left" style="line-height:3rem;"><div class="left" style="padding-right:0.5rem"><img width="50" height="50" style="width:50px;height:50px;" src="//img4.bdbphotos.com/images/50x50/i/6/i6f0kqcx162qxk60.jpg?skj2io4l" alt="American pop singers" class=" " /></div><div class="right" style="padding: 0.4rem 0;color:#666;"><i class="icon-angle-right" style="font-size: 2rem;"></i></div>
+					
+						American pop singers
+					
+				</a></li><li style="padding:0.25rem;font-size:0.9rem;"><a href="https://www.whosdatedwho.com/lists/american-rock-singers" class="text-left" style="line-height:3rem;"><div class="left" style="padding-right:0.5rem"><img width="50" height="50" style="width:50px;height:50px;" src="//img4.bdbphotos.com/images/50x50/w/y/wyuus4776v2e7svu.jpg?skj2io4l" alt="American rock singers" class=" " /></div><div class="right" style="padding: 0.4rem 0;color:#666;"><i class="icon-angle-right" style="font-size: 2rem;"></i></div>
+					
+						American rock singers
+					
+				</a></li></ul></div></div></div></fieldset>		<fieldset  data-ff-trx="eb" data-ff-id="topic.contribute" class="ff-dropitem block-topic-contribute" data-ff-name="topic.contribute"><div id="section-contributors" style="margin:-4rem 0 4rem;"></div><div class="ff-block-header ff-contribute" ><h2>
+										Contributors 
+									
+								</h2></div><div class="ff-block-content ff-contribute" id="ff-contributors"><div class="ff-panel"><h2>Top Contributors for Selena Gomez</h2><div class="ff-box-grid ff-full-width ff-lists" style="padding-top:1rem;"><ul><li style="padding:0.25rem;font-size:0.9rem;"><a href="http://members.whosdatedwho.com#/member/anna1992" class="text-left" style="line-height:1.5rem;"><div class="left" style="padding:0 0.5rem 0 0"><img width="24" height="24" style="width:24px;height:24px;" src="//img4.bdbphotos.com/images/50x50/d/c/dcjfzxs95lwpjpzw.jpg?skj2io4l" alt="anna1992" class=" " /></div><div style="float:right">
+					23953
+				</div>
+					anna1992
+			</a></li><li style="padding:0.25rem;font-size:0.9rem;"><a href="http://members.whosdatedwho.com#/member/Queenoftab" class="text-left" style="line-height:1.5rem;"><div class="left" style="padding:0 0.5rem 0 0"><img width="24" height="24" style="width:24px;height:24px;" src="//img4.bdbphotos.com/images/50x50/v/s/vs9e14razq4o4ar.jpg?skj2io4l" alt="Queenoftab" class=" " /></div><div style="float:right">
+					17428
+				</div>
+					Queenoftab
+			</a></li><li style="padding:0.25rem;font-size:0.9rem;"><a href="http://members.whosdatedwho.com#/member/girl4433" class="text-left" style="line-height:1.5rem;"><div class="left" style="padding:0 0.5rem 0 0"><img width="24" height="24" style="width:24px;height:24px;" src="//img4.bdbphotos.com/images/50x50/y/x/yx32xp6lmj7yjm.jpg?skj2io4l" alt="girl4433" class=" " /></div><div style="float:right">
+					10252
+				</div>
+					girl4433
+			</a></li><li style="padding:0.25rem;font-size:0.9rem;"><a href="http://members.whosdatedwho.com#/member/Staci123" class="text-left" style="line-height:1.5rem;"><div class="left" style="padding:0 0.5rem 0 0"><img width="24" height="24" style="width:24px;height:24px;" src="//img4.bdbphotos.com/images/50x50/d/j/djbv7ztq9mssjsvm.jpg?skj2io4l" alt="Staci123" class=" " /></div><div style="float:right">
+					8420
+				</div>
+					Staci123
+			</a></li><li style="padding:0.25rem;font-size:0.9rem;"><a href="http://members.whosdatedwho.com#/member/Dawn_light93" class="text-left" style="line-height:1.5rem;"><div class="left" style="padding:0 0.5rem 0 0"><img width="24" height="24" style="width:24px;height:24px;" src="//img4.bdbphotos.com/images/50x50/d/g/dgjrc7ephwtqpcwr.jpg?skj2io4l" alt="Dawn_light93" class=" " /></div><div style="float:right">
+					1707
+				</div>
+					Dawn_light93
+			</a></li></ul></div><div class="ff-block-header ff-contribute-edit"><h2>
+								Edit Page
+</h2></div><div style="padding:.5rem;"><p>Help keep Selena Gomez profile up to date.</p><div data-ffw="user" data-ff-action="login" data-ff-social><a class="button radius primary small">Login</a></div></div></div></div></fieldset>		<fieldset  data-ff-trx="eb" data-ff-id="topic.sixDegrees" class="ff-dropitem block-topic-sixDegrees" data-ff-name="topic.sixDegrees"><div id="section-six-degrees" style="margin:-4rem 0 4rem;"></div><div class="ff-block-header six-degrees" ><h2>
+										Six Degrees 
+									
+								</h2></div><div class="ff-block-content six-degrees" id="ff-six-degrees"><div class="ff-panel"><h2>Six Degrees Connections</h2><div class="ff-panel"><p>Connect any celebrity with Selena Gomez to see how closely they are linked... romantically!</p><form action="//fdata.whosdatedwho.com/topic/six-degrees" data-ff-loading="Please wait a moment while we find connections..."><div class="six-degrees-inline"><div class="left" style="width:43.625%"><div data-ffw="auto" data-ff-hide-views data-ff-name="topic1" data-ff-tids="1" data-ff-oids="20" data-ff-placeholder="Celebrity Name" data-ff-value="59520:selena-gomez"></div></div><div class="left" style="width:5%"><span class="prefix">&</span></div><div class="left ff-sd-partner" style="width:43.625%"><div data-ffw="auto" data-ff-hide-views data-ff-name="topic2" data-ff-tids="1" data-ff-oids="20" data-ff-placeholder="Celebrity Name" ></div></div><div class="left ff-sd-btn" style="width:7.5%"><input type="submit" value="Go" class="button primary postfix" style="padding:0;"></span></div><div></form><h5>Recent connections involving Selena Gomez</h5><ul style="list-style:none;margin:.5rem;"><li style="clear:both;"><a href="/six-degrees/103462104">
+			Donald Trump Jr. and Selena Gomez
+		</a></li><li style="clear:both;"><a href="/six-degrees/103433791">
+			James McAvoy and Taylor Lautner
+		</a></li><li style="clear:both;"><a href="/six-degrees/103333090">
+			Olivia Holt and Travis Scott (rapper)
+		</a></li><li style="clear:both;"><a href="/six-degrees/103333047">
+			Olivia Holt and ASAP Rocky
+		</a></li><li style="clear:both;"><a href="/six-degrees/103332911">
+			Olivia Holt and Keith Powers
+		</a></li></ul></div></div></div></fieldset>		<fieldset  data-ff-trx="eb" data-ff-id="topic.famousFixDesktop" class="ff-dropitem block-topic-famousFixDesktop" data-ff-name="topic.famousFixDesktop"><div class="ff-block-content " id="ff-fc638ab3434bb0be4868d791c769f6d7"><div class="ff-panel"><h2>More Selena Gomez</h2><div class="left" style="margin:0.5rem 0.25rem; 0;"><a href="https://www.famousfix.com/topic/selena-gomez"><img width="130" height="130" style="width:130px;height:130px;" src="//img3.bdbphotos.com/images/130x130/g/i/gie0qhd209r5q2ir.jpg?skj2io4l" alt="Selena Gomez" class=" " /></a></div><div class="right" style="margin:0.5rem 0.25rem; 0;"><a href="https://www.famousfix.com/topic/selena-gomez"><img width="130" height="130" style="width:130px;height:130px;" src="//img3.bdbphotos.com/images/130x130/c/j/cj37fjg089a479g.jpg?skj2io4l" alt="Selena Gomez &amp;#8211; CR Fashion Book (China &amp;#8211; November 2020 Issue)" class=" " /></a></div><a href="https://www.famousfix.com/topic/selena-gomez" class="right" style="margin: 0.2rem 0 -0.2rem;font-size:0.75rem;">
+				See 
+																																										photos, 
+																									music, 
+																									fashion
+													and more from FamousFix.com
+			</a></div></div></fieldset>				<fieldset  data-ff-trx="eb" data-ff-id="global.adDFP_RightBottom" class="ff-dropitem block-global-adDFP_RightBottom" data-ff-name="global.adDFP_RightBottom"><div class="ff-advert ff-advert-flex"><div><div class="ff-adblock" style="margin:0 auto;min-width:auto;min-height:auto"><script type="text/javascript">
+   e9 = new Object();
+   e9.size = "160x600";
+   e9.noAd = 1;
+</script><script type="text/javascript" src="//tags.expo9.exponential.com/tags/FamousFixcom/whosdatedwho/tags.js"></script></div></div></div></fieldset>	</div>
+	</div>
+	
+				<div style="margin-top:2rem;">
+							
+		
+														
+																																																																									
+																	
+								<div style='margin-top:20px; margin-bottom:20px; height:90px;'><div class="ff-advert ff-flex"><div><div class="ff-adblock" style="margin:0 auto;min-width:auto;min-height:auto"><script type="text/javascript"><!--
+	e9 = new Object();
+    e9.size = "728x90";
+    e9.noAd = 1;
+//--></script>
+<script type="text/javascript" src="//tags.expo9.exponential.com/tags/FamousFixcom/whosdatedwho/tags.js"></script></div></div></div></div>
+				
+										
+						
+				
+
+
+		</div>
+	
+		<div id="ff-fblike" style="margin-bottom:-7rem;margin-top: 7rem;">
+					<div class="ff-collapsible-content text-center" style="border-top:1px solid rgba(0,0,0,0.12);padding:1rem 0;font-size:1.25rem;">
+			<a target="_blank" href="https://www.facebook.com/Whos-Dated-Who-161093650579384/">
+				<i class="icon-facebook"></i> Follow WDW on Facebook
+			</a>
+		</div>
+		
+	</div> 
+		
+	<div id="ff-footer">
+		<div class="row collapse">
+			<div>
+				<div class="ff-rtime">0.303</div>
+				<div class="small-3 columns text-left">
+					<h3><a href="/">whosdatedwho.com</a></h3>
+				</div>
+				<div class="small-9 columns text-right">
+					<a href="/copyright">copyright</a> - 
+					<a href="/terms">terms</a> - 
+					<a href="/privacy">privacy</a>
+				</div>
+			</div>
+		</div>
+		
+				
+		<div class="row center">
+			<small><a data-ff-switch-platform="mobile" href="#">Mobile Version <i class="icon-chevron-right"></i></a></small>
+		</div>
+	</div>	
+</div>
+
+			
+<div id="ff-zdialog" class="reveal-modal" aria-labelledby="ff-zdialog-title" aria-hidden="true" role="dialog" data-reveal></div>
+
+
+
+<script src="https://cdnjs.cloudflare.com/ajax/libs/foundation/5.5.2/js/foundation.min.js"></script><script src="https://cdnjs.cloudflare.com/ajax/libs/modernizr/2.8.3/modernizr.min.js"></script>
+
+
+<script type="text/javascript" src="//pts2.whosdatedwho.com/static/js?f=/dev/zurb/js/vendor/placeholder.js,/static/misc/js/idle.js,$s/js/ff.trx3.js&_c=A|2&t=1583745205" crossorigin="anonymous"></script>
+
+<script>
+$(document).foundation();
+$.ajaxSetup({
+	crossDomain: true,
+	xhrFields: {
+	    withCredentials: true,
+	},
+	beforeSend: function(xhr) {
+        xhr.withCredentials = true;
+    }		
+});
+$(document).ready(function() {
+	$('[data-ff-topsearch]').click(function() {
+		var $inp = $('[data-ff-topsearch-input] .inputor');
+		if($inp.closest('fieldset').is(':hidden')) {
+			if($('.ff-main-menu').is(':visible')) {
+				$('.ff-main-menu-toggle i').trigger('click');
+			}
+			$inp.data('hide', true);
+			$inp.closest('fieldset').show().css({opacity:1});
+			// this is so a..z gets a real width
+			$(window).trigger('resize');
+			$inp.closest('fieldset').find('[data-ffw="swiper"]').each(function() {
+				$(this).trigger('ff:refresh');
+			});
+		} else {
+			if($inp.data('hide')) {
+				$inp.closest('fieldset').hide();
+			} else {
+				if($('.ff-main-menu').is(':visible')) {
+					$('.ff-main-menu-toggle i').trigger('click');
+				}
+			}
+		}
+		$inp.focus();  // must be done sync for iphone!
+		setTimeout(function() { $inp.focus(); var t = $inp.val(); $inp.val(t); }, 400);
+	});
+	// need to do something different later....!
+	$('.ff-main-menu.ff-bg').height($('.ff-main-menu.ff-wrapper').show().css('opacity', 0).find(' > ul').height());
+	$('.ff-main-menu.ff-wrapper').hide().css('opacity', 1);
+	$('.ff-main-menu.ff-wrapper').click(function(e) {
+		if($(e.target).closest('ul').length == 0) {
+			$('.ff-main-menu-toggle i').trigger('click');
+		}
+	});
+});
+</script>
+
+
+
+
+<script src="https://www.gstatic.com/firebasejs/3.4.1/firebase.js"></script><script src="https://cdnjs.cloudflare.com/ajax/libs/Swiper/3.4.0/js/swiper.min.js"></script><script src="https://cdnjs.cloudflare.com/ajax/libs/jqueryui/1.11.4/jquery-ui.min.js"></script><script src="https://cdnjs.cloudflare.com/ajax/libs/hammer.js/2.0.8/hammer.min.js"></script><script src="https://cdnjs.cloudflare.com/ajax/libs/jquery-cookie/1.4.1/jquery.cookie.min.js"></script><script src="https://cdnjs.cloudflare.com/ajax/libs/jquery-infinitescroll/2.1.0/jquery.infinitescroll.min.js"></script>
+
+<script type="text/javascript" src="//pts2.whosdatedwho.com/static/js?f=/js,/static/jquery/js/jquery.atwho.js,jquery.caret.js,jquery.md5.js&_c=A|2&t=1583745205" crossorigin="anonymous"></script>
+
+
+
+<script>
+</script>
+
+	<script>	
+__trx.agent([1,59520,2,1,"","",3,"%2Fdating%2Fselena-gomez","",0]);
+</script>
+	
+<script type="text/javascript">
+
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+	  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+	  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+	  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+  
+ga('create', 'UA-307493-9', {cookieDomain: 'whosdatedwho.com', userId: 0});
+ga('send', 'pageview');
+
+ga('send', {
+	  hitType: 'event',
+	  eventCategory: 'Page Variations',
+	  eventAction: 'Dating History Grid (A)',
+	  eventLabel: 'Text with thumbs (A2)',
+	  nonInteraction: true
+	});
+
+	  
+</script>
+	<!-- Quantcast Tag -->
+	<script type="text/javascript">
+	var _qevents = _qevents || [];
+
+	(function() {
+	var elem = document.createElement('script');
+	elem.src = (document.location.protocol == "https:" ? "https://secure" : "http://edge") + ".quantserve.com/quant.js";
+	elem.async = true;
+	elem.type = "text/javascript";
+	var scpt = document.getElementsByTagName('script')[0];
+	scpt.parentNode.insertBefore(elem, scpt);
+	})();
+
+	_qevents.push({
+	qacct:"p-903bQOpJXvFzg"
+	});
+	</script>
+
+	<noscript>
+	<div style="display:none;">
+	<img src="//pixel.quantserve.com/pixel/p-903bQOpJXvFzg.gif" border="0" height="1" width="1" alt="Quantcast"/>
+	</div>
+	</noscript>
+	<!-- End Quantcast tag -->
+
+
+
+<form><input class="data-ff-sss" type="hidden"></form>
+
+
+
+
+</body>
+
+</html>
